@@ -1,0 +1,3403 @@
+   1.  abase             v.降低，羞辱
+   2.  abash             v.使难堪
+   3.  abate             v.减弱，减少
+   4.  abbreviate        v.减短，缩 写
+   5.  abdicate          v.放弃
+   6.  abduction         n.绑架
+   7.  aberrant          n.不正常的
+   8.  abet              v.帮助，鼓励
+   9.  abeyance          n.悬而未决
+  10.  abhor             v.憎恨
+  11.  abject            a.穷困潦倒，卑微
+  12.  abjure            v.发誓放弃
+  13.  ablution          n.洗
+  14.  abnegation        n.批判，自我牺牲
+  15.  abolish           v.废除
+  16.  abominable        a.可恶的，非常糟糕
+  17.  aboriginal        a.&n.原来的，土著的
+  18.  abortive          a.不成功的，失败
+  19.  abrade            v.磨损，侵蚀
+  20.  abrasive          a.摩擦的，粗糙的，研磨剂
+  21.  abridge           v.删节，节选
+  22.  abrogate          a.废除
+  23.  abscond           v.隐匿，逃避，躲债
+  24.  absolute          a.完全的，肯定的
+  25.  absolve           v.谅解
+  26.  absorb            v.吸收，合并
+  27.  abstain           v.控制，限制（自己）
+  28.  abstemious        a.节制（饮食），调节
+  29.  abstinence        n.节制（饮食）
+  30.  abstract          a.抽象的
+  31.  abstruse          a.难以理解的，复杂的
+  32.  abundant          a.丰富，富足
+  33.  abusive           a.粗俗的侮辱，对身体有害的
+  34.  abut              v.毗邻
+  35.  abysmal           a.无底的
+  36.  abyss             n.深渊，深坑，无底洞
+  37.  academic          a.学术的
+  38.  accede            v.同意
+  39.  accelerate        v.加速
+  40.  accentuate        v.强调，重音
+  41.  accessible        a.可得到的
+  42.  accessory         n.附件
+  43.  acclaim           v.赞扬，表扬
+  44.  acclimate         v.适应
+  45.  acclivity         n.上山的陡坡
+  46.  accolade          n.出名的大奖
+  47.  accommodate       v.招待，食宿，适应
+  48.  accomplice        n.共犯，同伙
+  49.  accord            n.一致
+  50.  accost            v.搭讪，邂逅
+  51.  accoutre          v.装备
+  52.  accretion         n.增长
+  53.  accrue            v.附带的
+  54.  acerbity          n.尖酸的（语气，脾气）
+  55.  acetic            a.酸的
+  56.  acidulous         a.酸的；尖锐，刻薄
+  57.  acknowledge       v.认可，承认
+  58.  acme              n.顶点
+  59.  acoustics         n.声学的
+  60.  acquiesce         v.默许
+  61.  acquire           v.获取
+  62.  acquittal         n.无罪开释
+  63.  acrid             a.尖锐；尖酸
+  64.  acrimonious       a.挖苦的，尖酸的（语言，行为）
+  65.* acrophobia        n.恐高症
+  66.  actuarial         a.保险精算的，精算
+  67.  actuate           v.推动，促使
+  68.* acuity            n.尖锐
+  69.  acumen            n.思想敏锐
+  70.  acute             a.精明，敏锐，聪明
+  71.  adage             n.格言，谚语
+  72.  adamant           a.坚硬，不动摇
+  73.  adapt             v.改变
+  74.  addendum          n.附加，补充
+  75.  addiction         n.瘾，依赖
+  76.  addle             v.使变疯，腐坏
+  77.  address           v.发表（演讲），处理，讨论
+  78.  adept             a.擅长于
+  79.  adhere            v.黏着
+  80.  adherent          n.支持者，追随者
+  81.  adjacent          a.邻近的，毗邻的
+  82.  adjunct           n.无用的附加物
+  83.  admonish          v.警告，训斥
+  84.  admonition        n.警告
+  85.  adorn             v.装饰
+  86.  adroit            a.熟练，有技巧
+  87.  adulation         n.奉承，恭维
+  88.  adulterate        v.掺杂
+  89.  advent            n.到来，出现
+  90.  adventitious      a.偶然
+  91.  adversary         n.对手
+  92.  adverse           a.讨厌，敌意
+  93.  adversity         n.贫困，不幸
+  94.  advocacy          n.支持，辩护
+  95.  advocate          v.辩护
+  96.* aerie             n.猛禽的窝
+  97.  aesthetic         a.审美的
+  98.  affable           a.平易近人的
+  99.  affected          a.假的，做作的
+ 100.  affidavit         n.宣誓书
+ 101.  affiliation       n.联合，加入
+ 102.  affinity          n.亲缘关系
+ 103.  affirmation       n.正面肯定，确认
+ 104.  affix             v.增加，附于
+ 105.  affliction        n.痛苦
+ 106.  affluence         n.富足，财富
+ 107.  affront           n.侮辱，冒犯；蓄意蔑视
+ 108.  aftermath         n.后果，结果
+ 109.  agenda            n.议程
+ 110.  agent             n.方法，工具；代表
+ 111.  agglomeration     n.聚集，累积
+ 112.  aggrandize        v.增加，加强
+ 113.  aggregate         v.收集，聚集
+ 114.  aggressor         n.攻击者
+ 115.  aghast            a.吓坏了的
+ 116.  agility           n.敏捷
+ 117.  agitate           v.激怒，打扰
+ 118.  agnostic          n.无神论者
+ 119.  agrarian          a.耕地的，耕种的
+ 120.  alacrity          n.欢快的情绪
+ 121.  alchemy           n.炼金术士
+ 122.  alcove            n.小隔间，壁橱
+ 123.  alias             n.别名
+ 124.  alienate          v.孤立，树敌
+ 125.  alimentary        a.营养的
+ 126.  alimony           n.（离婚后的）生活费，抚养费
+ 127.  allay             v.平静下来，（使）冷静下来
+ 128.  allege            v.断言
+ 129.  allegiance        n.忠诚
+ 130.  allegory          n.寓言
+ 131.  alleviate         v.解脱，释放，释然
+ 132.  alliteration      n.头韵
+ 133.  allocate          v.分配，制定
+ 134.  alloy             n.合金
+ 135.  alloy             v.混合，中和
+ 136.  allude            v.暗指
+ 137.  allure            v.诱惑，引诱
+ 138.  allusion          n.暗指，暗示
+ 139.  aloft             ad.向上
+ 140.  aloof             a.分离，保留
+ 141.  altercation       n.大声争吵，激烈争论
+ 142.  altruistic        a.无私的，关心他人的
+ 143.  amalgamate        v.结合，整合
+ 144.  amass             v.收集
+ 145.  ambidextrous      a.双手都灵巧
+ 146.  ambience          n.环境
+ 147.  ambiguous         a.模棱两可
+ 148.  ambivalence       n.矛盾的观点或情绪
+ 149.  amble             n.漫步，缓行
+ 150.  ambulatory        a.可移动的，不固定
+ 151.  ameliorate        v.提高
+ 152.  amenable          a.有服从义务的，随时服从的
+ 153.  amend             v.修订，修改，变更
+ 154.  amenities         n.令人愉快的，礼貌的
+ 155.  amiable           a.可爱的，友好的，惬意的
+ 156.  amicable          a.温和的，友好礼貌的
+ 157.  amiss             a.错误
+ 158.  amity             n.友谊
+ 159.  amnesia           n.失忆，健忘
+ 160.  amnesty           n.原谅
+ 161.  amoral            a.不道德的
+ 162.  amorous           a.爱情的
+ 163.  amorphous         a.无形的，不成形的
+ 164.  amphibian         a.两栖的
+ 165.  amphitheater      n.椭圆形的剧院，斗兽场
+ 166.  ample             a.丰富的，富足的
+ 167.  amplify           v.放大
+ 168.  amputate          v.截肢，切除
+ 169.  amulet            n.护身符
+ 170.  anachronistic     a.时代错误
+ 171.  analgesic         a.止痛的
+ 172.  analogous         a.类似的
+ 173.  analogy           n.类比，相似
+ 174.  anarchist         n.无政府主义者
+ 175.  anarchy           n.无政府主义
+ 176.  anathema          n.诅咒
+ 177.  ancestry          n.祖先
+ 178.  anchor            v.固定；锚
+ 179.  ancillary         a.辅助的
+ 180.  anecdote          n.奇闻轶事
+ 181.  anemia            n.贫血
+ 182.  anesthetic        n.麻醉药
+ 183.  anguish           n.极度痛苦
+ 184.  angular           a.有尖角的，瘦骨嶙峋的
+ 185.  animated          a.活跃的，有生气的
+ 186.  animosity         n.仇恨
+ 187.  animus            n.敌意
+ 188.  annals            n.记录，历史
+ 189.  annex             v.接手
+ 190.  annihilate        v.毁灭，破坏
+ 191.  annotate          v.评论，注释
+ 192.  annuity           n.年金，养老金
+ 193.  annul             v.避免
+ 194.  anoint            v.神圣化
+ 195.  anomalous         a.不正常的，变态的
+ 196.  anomaly           n.不正常
+ 197.  anonymity         n.匿名
+ 198.  anonymous         a.匿名的
+ 199.  antagonism        n.反抗，敌对
+ 200.* antecede          v.先于
+ 201.* antecedents       n.历史环境；历史背景
+ 202.  antediluvian      a.远古，上古，及其久远
+ 203.  anthem            n.圣歌，赞美诗
+ 204.  anthology         n.选集
+ 205.* anthropocentric   a.人类中心说
+ 206.  anthropoid        a.类人的
+ 207.  anthropologist    n.人类学家
+ 208.  anthropomorphic   a.人形的
+ 209.  anticlimax        n.反高潮，突降
+ 210.  antidote          n.解药
+ 211.  antipathy         n.反对，厌恶
+ 212.  antiquated        a.过时的，陈旧的
+ 213.  antiseptic        n.抗菌物
+ 214.  antithesis        n.对立面
+ 215.  apathy            n.漠不关心
+ 216.  ape               v.模仿
+ 217.  aperture          n.洞，穴，孔
+ 218.  apex              n.高点，顶点，高潮
+ 219.  aphasia           n.失声
+ 220.  aphorism          n.格言，警句，谚语
+ 221.  apiary            n.蜂房
+ 222.  aplomb            n.沉着，垂直
+ 223.  apocalyptic       a.启示的，启示录的
+ 224.  apocryphal        a.假的，捏造的
+ 225.  apogee            n.顶点
+ 226.* apolitical        a.不问政治的
+ 227.  apologist         n.辩护者
+ 228.  apostate          n.变节者，脱党者，叛徒
+ 229.  apotheosis        n.神化，典范
+ 230.  appall            v.使惊慌，震惊
+ 231.  apparatus         n.器械，设备
+ 232.  apparition        n.鬼，幽灵
+ 233.  appease           v.平静，安抚
+ 234.  appellation       n.名字，标题
+ 235.  append            v.追加，附上
+ 236.  application       n.勤奋的付出
+ 237.  apposite          a.合适的
+ 238.  appraise          v.估价
+ 239.  appreciate        v.感激；增值；赏识
+ 240.  apprehend         v.逮捕；惧怕；领会
+ 241.  apprehension      n.害怕
+ 242.  apprenticeship    n.学徒身份
+ 243.  apprise           v.告诉
+ 244.  approbation       n.同意，批准
+ 245.  appropriate       v.获得；挪用，据为己有
+ 246.  apropos           prep.关于
+ 247.  aptitude          n.能力，才能
+ 248.  aquatic           a.与水有关系的
+ 249.  aquiline          a.弯曲的，钩状的
+ 250.  arable            a.可耕种的
+ 251.  arbiter           n.仲裁者
+ 252.  arbitrary         a.反复无常；残暴；随机的
+ 253.  arbitrator        n.仲裁者
+ 254.  arboretum         n.植物园
+ 255.  arcade            n.拱廊
+ 256.  arcane            a.秘密；谜
+ 257.  archaeology       n.考古学
+ 258.  archaic           a.过时的
+ 259.  archetype         n.原形
+ 260.  archipelago       n.群岛
+ 261.  archives          n.档案；档案馆
+ 262.  ardent            a.激烈的；热心肠的；有激情的
+ 263.  arduous           a.努力；奋发
+ 264.  aria              n.清唱剧
+ 265.  arid              a.荒芜的
+ 266.  aristocracy       n.贵族
+ 267.  armada            n.舰队
+ 268.  aromatic          a.芬芳的
+ 269.  arousal           n.觉醒；激励
+ 270.  arraign           v.传讯；责问
+ 271.  array             v.排列；整理
+ 272.  array             v.衣服；穿着，装饰
+ 273.  arrears           n.欠债
+ 274.  arrest            v.阻止；引起注意；吸引
+ 275.  arrogance         n.傲慢，骄傲
+ 276.  arroyo            n.干枯的河床
+ 277.  arsenal           n.军火库
+ 278.  articulate        a.有效的；独特的
+ 279.  artifact          n.人造物品
+ 280.  artifice          n.技巧；欺骗
+ 281.  artisan           n.工匠
+ 282.  artless           a.坦诚；直率
+ 283.  ascendancy        n.统治，控制
+ 284.  ascertain         v.确认，确证
+ 285.  ascetic           a.苦行；禁欲
+ 286.  ascribe           v.归因于；指派
+ 287.  aseptic           a.抗菌的
+ 288.  ashen             a.灰色
+ 289.  asinine           a.愚蠢
+ 290.  askance           a.瞄，不经意的斜视
+ 291.  askew             a.歪斜
+ 292.  asperity          n.严酷，粗暴
+ 293.  aspirant          n.有志者；有抱负的人
+ 294.  aspire            v.热望；热心于
+ 295.  assail            v.攻击
+ 296.  assay             v.分析；化验
+ 297.  assent            v.同意；接受
+ 298.  assert            v.断言
+ 299.  assessment        n.评价，评估；判断
+ 300.  assiduous         a.勤奋
+ 301.  assimilate        v.吸收；同化
+ 302.  assuage           v.减轻（痛苦）；满足（饥渴）；安慰
+ 303.  assumption        n.假定，设想；采取
+ 304.  assurance         n.担保，保证；确定；自信
+ 305.  asteroid          n.小行星
+ 306.  astigmatism       n.散光
+ 307.  astral            a.关于星的
+ 308.  astringent        a.收敛的
+ 309.  astronomical      a.巨大，广阔
+ 310.  astute            a.聪明；敏锐
+ 311.  asunder           ad.分裂，分开
+ 312.  asylum            n.庇护所
+ 313.  asymmetric        a.不对称
+ 314.  atavism           n.反祖；隔代遗传
+ 315.  atheistic         a.无神论
+ 316.  atlas             n.地图集
+ 317.  atone             v.补偿；偿还
+ 318.  atrocity          n.暴行
+ 319.  atrophy           n.萎缩，变得没用
+ 320.  attain            v.获得；完成
+ 321.  attentive         a.专心的，专注的；全神贯注
+ 322.  attenuate         v.削弱
+ 323.  attest            v.证明
+ 324.  attribute         n.属性
+ 325.  attribute         v.归因于；解释
+ 326.  attrition         n.裁员；磨损
+ 327.  atypical          a.非正常的，不正常
+ 328.  audacious         a.大胆的；鲁莽的
+ 329.  audit             n.核算，稽核
+ 330.  auditory          a.听觉的
+ 331.  augment           v.增长
+ 332.  augury            n.占卜；预言
+ 333.  august            a.威严的；令人印象深刻的
+ 334.  aureole           n.日冕
+ 335.  auroral           a.曙光的，极光的
+ 336.  auspicious        a.幸运的，吉祥的
+ 337.  austere           a.严厉的；朴素的
+ 338.  authenticate      v.鉴别
+ 339.  authoritarian     a.独裁
+ 340.  authoritative     a.权威；独裁
+ 341.  autocratic        a.独裁
+ 342.  automaton         n.机器人
+ 343.  autonomous        a.自治
+ 344.  autopsy           n.验尸
+ 345.  auxiliary         a.辅助的
+ 346.  avalanche         n.雪崩
+ 347.  avarice           n.贪婪，贪财
+ 348.  avenge            v.复仇
+ 349.  averse            a.反对的
+ 350.  aversion          n.厌恶，抵制
+ 351.  avert             v.转移；防止
+ 352.  aviary            n.鸟舍
+ 353.  avid              a.贪婪
+ 354.  avocation         n.副业，业余爱好
+ 355.  avow              v.宣布
+ 356.  avuncular         a.像伯父（叔叔）一样的
+ 357.  awe               n.敬畏
+ 358.  awry              ad.扭曲的；歪曲的
+ 359.  axiom             n.公理，自明的道理
+ 360.  azure             a.天蓝
+ 361.  babble            v.嘟囔
+ 362.  bacchanalian      a.喝醉的，耍酒疯
+ 363.  badger            v.激怒，纠缠
+ 364.  badinage          n.开玩笑，揶揄；取消
+ 365.  baffle            v.挫败
+ 366.  bait              v.欺负，玩弄，折磨
+ 367.  baleful           a.恶意的，有害的
+ 368.  balk              v.反对；阻止
+ 369.  ballast           n.配重；沙袋
+ 370.  balm              n.（止痛的）安慰物
+ 371.  balmy             a.柔和的；芳香的
+ 372.  banal             a.平凡，陈腐，老生常谈
+ 373.  bandy             v.传话
+ 374.  bane              n.祸根
+ 375.  bantering         a.可笑的，嘲弄的
+ 376.  barb              n.鱼钩，钩状物
+ 377.  bard              n.（吟游）诗人
+ 378.  baroque           a.华丽的
+ 379.  barrage           n.弹幕，火力网
+ 380.  barren            a.荒芜的，贫瘠的
+ 381.  barricade         n.屏障；障碍物
+ 382.* barterer          n.交易商
+ 383.  bask              v.享受（温暖）；愉快，舒适
+ 384.  bastion           n.堡垒；工事
+ 385.  bate              v.限制；抑制
+ 386.  bauble            n.小玩意儿
+ 387.  bawdy             a.猥亵的；下流的；卖淫的
+ 388.  beam              n.光束；铁梁，木梁；一束电波
+ 389.  beatific          a.祝福；幸福的
+ 390.  beatitude         n.祝福
+ 391.  bedizen           v.俗丽，俗气
+ 392.  bedraggle         v.邋遢的；湿的
+ 393.  beeline           n.直线
+ 394.  befuddle          v.迷惑
+ 395.  beget             v.得子；产生
+ 396.  begrudge          v.愤恨；嫉妒
+ 397.  beguile           v.欺骗，骗住；消磨时间
+ 398.  behemoth          n.怪物；怪兽
+ 399.  belabor           v.嘴贫，过度的说；谩骂
+ 400.  belated           a.推迟的，延期的
+ 401.  beleaguer         v.攻击；使烦恼
+ 402.  belie             v.掩饰，造成假象；矛盾
+ 403.  belittle          v.蔑视，使渺小
+ 404.  bellicose         a.好斗的，好战的
+ 405.  belligerent       a.好斗的，好斗嘴的
+ 406.  bemoan            v.哀叹，悲伤
+ 407.  bemused           a.困惑的，发呆的
+ 408.  benediction       n.祝福
+ 409.  benefactor        n.恩人，赞助人
+ 410.  beneficial        a.有用的
+ 411.  beneficiary       n.（遗产）受益人
+ 412.  benevolent        a.慈善的
+ 413.  benign            a.良性的，好的；和蔼可亲的
+ 414.  bent              a.&n.先天的
+ 415.  bequeath          v.遗赠，（代代）相传
+ 416.  berate            v.严厉指责，谴责
+ 417.  bereavement       n.丧亲
+ 418.  bereft            a.失去的，缺少的
+ 419.  berserk           ad.疯狂的，狂暴的
+ 420.  beseech           v.乞求，恳求
+ 421.  beset             v.困扰
+ 422.  besiege           v.围攻
+ 423.  besmirch          v.弄脏
+ 424.  bestial           a.残忍的
+ 425.  bestow            v.给予
+ 426.  betoken           v.预示；表示
+ 427.  betray            v.出卖；背叛
+ 428.  betroth           v.订婚
+ 429.  bevy              n.一群（少女，小鸟）
+ 430.  biased            a.偏见的，偏差
+ 431.  bicameral         a.两院制的（参，众）
+ 432.  bicker            v.争吵
+ 433.  biennial          a.两年一度
+ 434.  bigotry           n.固执
+ 435.  bilious           a.消化不良，易怒
+ 436.* bilk              v.骗
+ 437.* billowing         a.波涛翻滚
+ 438.  bivouac           n.帐篷
+ 439.  bizarre           a.怪异的
+ 440.  blanch            v.漂白
+ 441.  bland             a.温和的
+ 442.  blandishment      n.阿谀奉承
+ 443.  blare             n.大声喊叫，令人眩晕的强光
+ 444.  blase             a.厌于享乐
+ 445.  blasphemy         n.亵渎
+ 446.  blatant           a.喧闹；俗丽
+ 447.  bleak             a.冷淡；凄凉
+ 448.  blighted          a.完蛋了的；生病了的
+ 449.  blithe            a.欢乐，高兴
+ 450.  bloated           a.浮肿
+ 451.  bludgeon          n.大头狼牙棒
+ 452.  bluff             a.直率的
+ 453.  bluff             n.虚伪；欺骗；悬崖
+ 454.  blunder           n.错误
+ 455.  blurt             v.脱口而出
+ 456.  bluster           v.咆哮；吓唬
+ 457.  bode              v.预兆
+ 458.  bogus             a.赝品
+ 459.  bohemian          a.不合习俗；放荡不羁
+ 460.  boisterous        a.狂暴；喧嚣
+ 461.  bolster           v.支持，增援
+ 462.  bolt              n.门闩；螺钉；布匹的长度
+ 463.  bolt              v.猛冲，上门闩，囫囵吞下
+ 464.  bombardment       n.轰击（导弹）
+ 465.  bombastic         a.夸张的
+ 466.  booming           a.快速增长的，欣欣向荣；深刻的
+ 467.  boon              n.恩惠，福利
+ 468.  boorish           a.粗鲁；笨拙
+ 469.  boundless         a.无限的
+ 470.  bountiful         a.富足的；慷慨的
+ 471.  bourgeois         a.中产阶级；平庸的
+ 472.  bovine            a.牛的；迟钝的；耐心的
+ 473.* bowdlerize        v.删除
+ 474.  boycott           v.抵制
+ 475.  braggart          n.自夸，吹嘘
+ 476.  brandish          v.挥舞
+ 477.  bravado           n.虚张声势
+ 478.  brawn             n.强壮的肌肉
+ 479.  brazen            a.厚颜无耻；傲慢
+ 480.  breach            n.违约；突破；打破
+ 481.  breadth           n.宽度
+ 482.  brevity           n.简短，短暂
+ 483.  brindled          a.有条纹或斑点的
+ 484.  bristling         a.竖立的
+ 485.  brittle           a.易碎的；困难的
+ 486.  broach            v.介绍，提出，引见
+ 487.  brochure          n.小册子
+ 488.  brooch            n.胸针
+ 489.  browbeat          v.吓唬
+ 490.  browse            v.吃草；浏览
+ 491.  brunt             n.冲击
+ 492.  brusque           a.唐图；直率；粗暴无礼
+ 493.  buccaneer         n.海盗
+ 494.  bucolic           a.田园的
+ 495.  buffet            n.自助餐
+ 496.  buffet            v.殴打，斗殴
+ 497.  buffoonery        n.滑稽的
+ 498.  bullion           n.金条，银条
+ 499.  bulwark           n.壁垒
+ 500.  bumptious         a.盲目自大
+ 501.  bungalow          n.小平房
+ 502.  bungle            v.搞砸
+ 503.  buoyant           a.可漂浮的，乐观的
+ 504.  bureaucracy       n.官僚机构
+ 505.  burgeon           v.发芽，成长
+ 506.  burlesque         v.作秀，滑稽
+ 507.  burly             a.魁伟，结实
+ 508.  burnish           v.擦拭
+ 509.  bustle            v.喧嚣，繁忙，熙熙攘攘
+ 510.  buttress          v.支持
+ 511.  buxom             a.丰满；充满活力；欢快
+ 512.  cabal             n.内阁
+ 513.  cache             n.藏身之处
+ 514.* cacophonous       a.不和谐
+ 515.  cadaver           n.尸体
+ 516.  cadaverous        a.尸体似的，苍白的
+ 517.  cadence           n.平仄，重音
+ 518.  cajole            v.哄骗，勾引
+ 519.  calamity          n.灾难，不幸
+ 520.  calculated        a.预先计划好的，算好的；合适的
+ 521.* caldron           n.大锅
+ 522.  caliber           n.能力；品质
+ 523.  calligraphy       n.漂亮的书法
+ 524.  callous           a.硬心肠的，无情的
+ 525.  callow            a.年幼，稚嫩；无经验
+ 526.  calorific         a.产热的
+ 527.  calumny           n.诽谤；中伤
+ 528.  camaraderie       n.友情
+ 529.  cameo             n.贝壳上的浮雕；特写（演员）
+ 530.  camouflage        v.伪装
+ 531.  candor            n.开诚布公；坦率
+ 532.  canine            a.狗的
+ 533.  canny             a.谨慎的；节约的
+ 534.  cant              n.伪善；黑话
+ 535.  cantankerous      a.脾气坏；易发怒
+ 536.  cantata           n.大合唱；康塔塔
+ 537.  canter            n.慢跑
+ 538.  canto             n.（长诗的）分篇
+ 539.  canvass           v.调查；投票
+ 540.  capacious         a.宽敞的
+ 541.  Capacity          n.能力；角色
+ 542.  capitulate        v.投降
+ 543.  caprice           n.反复无常；一时幻想；奇怪的想法
+ 544.  capricious        a.反复无常的
+ 545.  caption           n.标题
+ 546.  captivate         v.迷住；迷惑
+ 547.  carat             n.克拉；开；K
+ 548.  cardinal          a.主要的
+ 549.  cardiologist      n.心脏病专家
+ 550.  careen            v.倾斜
+ 551.  caricature        n.歪曲；漫画；讽刺画
+ 552.  carnage           n.残杀；大屠杀
+ 553.  carnal            a.肉体的；欲望的
+ 554.  carnivorous       a.食肉的
+ 555.  carping           a.挑剔的，吹毛求疵
+ 556.  cartographer      n.制图者，制地图的人
+ 557.  cascade           n.小瀑布
+ 558.  castigate         v.严厉批评；惩罚
+ 559.  casualty          n.严重的事故；伤亡
+ 560.  cataclysm         n.巨变；剧变；灾难
+ 561.  catalyst          n.催化剂
+ 562.  catapult          n.弹弓；弹舐器
+ 563.  cataract          n.大瀑布；白内障
+ 564.  catastrophe       n.灾难
+ 565.  catcall           n.嘘声
+ 566.  catechism         n.教义问答手册；FAQ,Q&A
+ 567.  categorical       a.无条件；直截了当
+ 568.  cater to          v.迎合
+ 569.  catharsis         n.导泻，通便；疏泄
+ 570.  catholic          a.一般的，普遍的；天主教
+ 571.  caucus            n.核心小组会议（秘密）
+ 572.  caulk             v.填；补漏
+ 573.  causal            a.因果关系的
+ 574.  caustic           a.腐蚀；挖苦
+ 575.  cavalcade         n.队伍
+ 576.  cavalier          a.随便；傲慢
+ 577.  cavil             v.挑剔
+ 578.  cede              v.放弃；屈服于；投降
+ 579.  celebrated        a.名人
+ 580.  celerity          n.速度
+ 581.  celestial         a.天体的
+ 582.  celibate          a.未婚的，独身的
+ 583.  censor            n.审查
+ 584.  censorious        a.批判的
+ 585.  censure           v.责怪；批评
+ 586.  centigrade        a.华氏
+ 587.  centrifugal       a.离心；放舐
+ 588.  centripetal       a.向心
+ 589.  centurion         n.百夫长
+ 590.  cerebral          a.脑的；智力的
+ 591.  cerebration       n.思考
+ 592.  ceremonious       a.隆重的
+ 593.  certitude         n.确实
+ 594.  cessation         n.停止
+ 595.  cession           n.给与；割让
+ 596.  chafe             v.摩擦；擦热
+ 597.  chaff             n.废物；糠；假货；开玩笑；打趣
+ 598.  chaffing          a.开玩笑
+ 599.  chagrin           n.伤自尊；委屈
+ 600.  chalice           n.圣餐杯
+ 601.  chameleon         n.变色龙
+ 602.  champion          v.拥护
+ 603.  Chaotic           a.混乱
+ 604.  charisma          n.魅力
+ 605.  charlatan         n.吹牛
+ 606.  chary             a.谨慎；吝啬
+ 607.  chasm             n.深渊
+ 608.  chassis           n.底盘
+ 609.  chaste            a.纯的
+ 610.  chasten           v.磨练
+ 611.  chastise          v.惩罚
+ 612.  chauvinist        n.盲目爱国主义
+ 613.  check             v.控制；阻止
+ 614.  checkered         a.多变的；像国际象棋棋盘一样的方格
+ 615.  cherubic          a.天真无邪
+ 616.  chicanery         n.强辩，狡辩；欺骗
+ 617.  chide             v.斥责
+ 618.  chimerical        a.不现实，空想
+ 619.  chisel            n.凿子
+ 620.  chisel            v.欺骗
+ 621.  Chivalrous        a.勇敢；诚实
+ 622.  choleric          a.易发怒的；脾气坏
+ 623.  choreography      n.舞蹈术；舞蹈记谱
+ 624.  chortle           v.得意的笑
+ 625.  chronic           a.慢性的
+ 626.  chronicle         v.编年史
+ 627.  churlish          a.粗鲁的
+ 628.  cipher            n.密码
+ 629.  cipher            n.不重要的人或物
+ 630.  circuitous        a.迂回的
+ 631.  circumlocution    n.婉转曲折的表达
+ 632.  circumscribe      v.限制
+ 633.  circumspect       a.慎重；周到
+ 634.  circumvent        v.智取；包围
+ 635.  cistern           n.水塔；水库
+ 636.  citadel           n.大本营
+ 637.  cite              v.引用；掌握
+ 638.  Civil             a.民事的；国民的
+ 639.  clairvoyant       a.&n.预知；预言者
+ 640.  clamber           v.爬
+ 641.  clamor            n.吵闹声；噪音
+ 642.  clandestine       a.秘密
+ 643.* clangor           n.大声喧哗；持续的铿锵声
+ 644.  clapper           n.铃舌，钟舌
+ 645.  clasp             n.扣合；紧密合作
+ 646.  claustrophobia    n.幽闭恐怖症
+ 647.  cleave            v.劈开；黏着；忠于
+ 648.  Cleft             n.裂缝；开裂
+ 649.  clemency          n.温和；仁慈
+ 650.  clench            v.牢牢抓住
+ 651.  cliche            n.陈词滥调
+ 652.  clientele         n.常客
+ 653.  climactic         a.顶点的，高潮的
+ 654.  clime             n.地域；气候
+ 655.  Clip              n.剪辑
+ 656.  clique            n.小圈子；同行
+ 657.  cloister          n.修道院
+ 658.  Clout             n.巨大的影响（政治\社会）
+ 659.  cloying           a.倒胃口；过度的
+ 660.  Clump             n.一块，一团；沉重的脚步声；草丛，灌木丛
+ 661.  coagulate         v.凝结
+ 662.  coalesce          v.接合
+ 663.  coalition         n.伙伴；同盟，集合
+ 664.  coddle            v.娇养，溺爱
+ 665.  codicil           n.遗嘱的附录
+ 666.  codify            v.编纂
+ 667.  coercion          n.威逼，强迫
+ 668.  cogent            a.有说服力的
+ 669.  cogitate          v.考虑
+ 670.  cognate           a.同源的
+ 671.  cognitive         a.认知的
+ 672.  cognizance        n.认知
+ 673.  cohere            v.粘住的
+ 674.  cohesion          n.内聚力；黏度
+ 675.  coiffure          n.发型
+ 676.  coin              v.铸币；发明；杜撰
+ 677.  coincidence       n.巧合
+ 678.  colander          n.过滤器
+ 679.  collaborate       v.协作，合作
+ 680.  collage           n.拼贴画
+ 681.  collate           v.校对，整理
+ 682.  collateral        n.抵押品
+ 683.  colloquial        a.口语的
+ 684.  collusion         n.勾结
+ 685.  colossal          a.巨大
+ 686.  comatose          a.昏迷；熟睡
+ 687.  combustible       a.易燃的
+ 688.  comely            a.清秀，美丽，漂亮；有吸引力的
+ 689.* comeuppance       n.报应
+ 690.  commandeer        v.征用，招募
+ 691.  commemorate       v.纪念
+ 692.  commensurate      a.相当的，相称的
+ 693.  commiserate       v.怜悯，同情
+ 694.  commodious        a.宽敞，舒适
+ 695.  communal          a.公共的
+ 696.  compact           n.合约，合同
+ 697.  compact           a.紧密的，结实的
+ 698.  comparable        a.相似的
+ 699.  compatible        a.和谐的
+ 700.  compelling        a.强制的
+ 701.  compensatory      a.补偿
+ 702.  compile           v.聚集，积累，汇集
+ 703.  complacency       n.自满；装模作样
+ 704.  complaisant       a.彬彬有礼；殷勤
+ 705.  complement        v.补足；完善
+ 706.  complementary     a.补足的，完善的
+ 707.  compliance        n.顺从
+ 708.  compliant         a.顺从
+ 709.  complicity        n.共犯，共同
+ 710.  component         n.成分
+ 711.  composure         n.镇定，沉着
+ 712.  compound          v.混合；组合；增加
+ 713.  comprehensive     a.全面的
+ 714.  compress          v.压缩
+ 715.  comprise          v.包括
+ 716.  compromise        v.危害；妥协
+ 717.  compunction       n.后悔
+ 718.  compute           v.计算
+ 719.  concave           a.空的
+ 720.  concede           v.勉强，让步，屈从
+ 721.  conceit           n.自负，自大；离奇古怪的想法
+ 722.  concentric        a.同心
+ 723.  conception        n.开始，构思
+ 724.  concerted         a.协调的
+ 725.  concession        n.让步
+ 726.  conciliatory      a.抚慰，调和
+ 727.  concise           a.简练
+ 728.  contrived         a.做作的；牵强的
+ 729.  controvert        v.辩论；反驳
+ 730.  contusion         n.擦伤；撞伤
+ 731.  conundrum         n.谜语
+ 732.  convene           v.召集，集合
+ 733.  convention        n.习俗，惯例
+ 734.  conventional      a.典型的；普通的
+ 735.  converge          v.聚合；接近
+ 736.  conversant        a.熟悉
+ 737.  converse          n.相反的
+ 738.  converse          v.聊天
+ 739.  convert           n.改变；转换；皈依
+ 740.  convex            a.凸的
+ 741.  conveyance        n.运输；交通工具
+ 742.  conviction        n.定罪；深信
+ 743.  convivial         a.欢乐；高兴
+ 744.  convoke           v.召集
+ 745.  convoluted        a.围绕，卷绕；费解
+ 746.  Copious           a.丰富的，大量的
+ 747.  coquette          n.卖弄风情的女子；蜂鸟
+ 748.  cordial           a.亲切；衷心
+ 749.  cordon            n.警戒线
+ 750.  cornucopia        n.象征丰饶的羊角
+ 751.  corollary         n.结果，产物
+ 752.  coronation        n.加冕
+ 753.  corporeal         a.肉体的，物质的
+ 754.  corpulent         a.肥胖
+ 755.  correlation       n.相互的关系
+ 756.  corroborate       v.确认；支持
+ 757.  corrode           v.腐蚀
+ 758.  corrosive         a.腐蚀性的
+ 759.  corrugated        a.皱的
+ 760.  Cosmic            a.宇宙的；巨大的
+ 761.  cosmopolitan      a.世界主义
+ 762.  coterie           n.同行，圈内人
+ 763.  countenance       v.忍受；接受
+ 764.  countenance       n.脸
+ 765.  countermand       v.取消；废除
+ 766.  culvert           n.水管
+ 767.  cumbersome        a.粗笨的；累赘
+ 768.  cumulative        a.累积
+ 769.  cupidity          n.贪婪
+ 770.  curator           n.主管；经理
+ 771.  curmudgeon        n.脾气坏；吝啬
+ 772.  cursive           a.流动的；连接的
+ 773.  cursory           a.草率；匆忙
+ 774.  curtail           v.减短；降低
+ 775.  cynical           a.愤世嫉俗
+ 776.  cynosure          n.广受注意的目标
+ 777.  dabble            v.涉猎，尝试；溅
+ 778.  dais              n.讲台
+ 779.  dank              a.湿的；湿透的
+ 780.  dapper            a.整齐的，优雅的
+ 781.  dappled           a.有斑点的
+ 782.  daub              v.涂抹
+ 783.  daunt             v.惊吓；胁迫
+ 784.  dauntless         a.胆大的
+ 785.  dawdle            v.游手好闲；混日子
+ 786.  deadlock          n.僵局
+ 787.  deadpan           a.没有表情的；呆板的
+ 788.  dearth            n.稀缺；缺乏
+ 789.  debacle           n.崩溃
+ 790.  debase            v.贬低，降低
+ 791.  debauch           v.堕落，放荡
+ 792.  debilitate        v.使虚弱，衰弱
+ 793.  debonair          a.温文尔雅；友好；殷勤
+ 794.  debris            n.碎片；残骸
+ 795.  debunk            v.揭穿；奚落
+ 796.  debutante         n.初次参加社交活动的女孩
+ 797.  decadence         n.颓废；腐坏
+ 798.  decapitate        v.斩首，杀头
+ 799.  decelerate        v.减慢
+ 800.  deciduous         a.落叶的
+ 801.  decimate          v.残杀（十个里面杀一个）
+ 802.  decipher          v.破译，解密
+ 803.  declivity         n.下坡
+ 804.  decollete         a.低肩露颈的服装
+ 805.  decomposition     n.瓦解；腐烂
+ 806.  decorum           n.礼貌；温文尔雅
+ 807.  decoy             n.引诱
+ 808.  decrepit          a.老化，磨损
+ 809.  decrepitude       n.衰老；老耄
+ 810.  decry             v.强烈反对
+ 811.* deducible         a.可推导的，可推论的
+ 812.  deface            v.丑化
+ 813.  defame            v.丑化；诽谤
+ 814.  default           n.不作为，无动于衷
+ 815.  defeatist         a.失败主义者
+ 816.  defection         n.缺点；逃跑，叛逃
+ 817.  defer             v.推迟，延期
+ 818.  defer             v.缓招
+ 819.  defer             v.听从
+ 820.  deference         n.尊重的，尊重他人的
+ 821.  defiance          n.抵抗；不屈服
+ 822.  defile            v.污染；亵渎
+ 823.  definitive        a.完全的；最终的
+ 824.  deflect           v.反舐，偏转
+ 825.* defoliate         v.落叶
+ 826.  defray            v.偿付
+ 827.  deft              a.灵巧的，敏锐地
+ 828.  defunct           a.死的；不存在的，报废的
+ 829.  defuse            v.拆弹；化解（危机）
+ 830.  degenerate        v.恶化
+ 831.  degradation       n.降级；降格；退化
+ 832.  dehydrate         v.脱水
+ 833.  deify             v.神化
+ 834.  deign             v.屈服，屈尊
+ 835.  delectable        a.使人愉快的
+ 836.  delete            v.删除
+ 837.  deleterious       a.有害的
+ 838.  deliberate        v.深思熟虑的；商讨
+ 839.  delineate         v.描绘；描述
+ 840.  delirium          n.精神错乱
+ 841.  delude            v.盅惑
+ 842.  deluge            n.冲（水）（刺）
+ 843.  delusion          n.错觉
+ 844.  delve             v.挖掘；调查
+ 845.  demagogue         n.煽动政治家
+ 846.  demean            v.降级；贬低
+ 847.  demeanor          n.风度；行为
+ 848.  demented          a.疯狂的
+ 849.  demise            n.死
+ 850.  demolition        n.拆除
+ 851.  demoniac          a.魔鬼的
+ 852.  demur             v.反对；犹豫
+ 853.  demure            a.端庄的；认真的；腼腆的
+ 854.* demystify         v.澄清；揭秘
+ 855.  denigrate         v.抹黑
+ 856.  denizen           n.居民；常客
+ 857.  denotation        n.指示；根据名字区别
+ 858.  denouement        n.结局；结果
+ 859.  denounce          v.咒骂；批评
+ 860.  depict            v.描述
+ 861.  deplete           v.耗尽；减少
+ 862.  deplore           v.悔恨
+ 863.  deploy            v.散开；部署
+ 864.  depose            v.革职
+ 865.  deposition        n.宣言，誓言
+ 866.  depravity         n.堕落，腐坏
+ 867.  deprecate         v.抗议；蔑视
+ 868.  depreciate        v.折旧
+ 869.  depredation       n.掠夺
+ 870.  deranged          a.不理智
+ 871.  derelict          a.遗弃的；废弃的
+ 872.  deride            v.打趣；取消
+ 873.  derivative        a.派生的
+ 874.  dermatologist     n.皮肤病专家
+ 875.  derogatory        a.贬低的，贬损的
+ 876.  descant           v.全面而详细的讨论
+ 877.  descry            v.看到
+ 878.  desecrate         v.亵渎
+ 879.  desiccate         v.弄干
+ 880.  desolate          a.荒无人烟的
+ 881.  desolate          v.放弃
+ 882.  despise           v.鄙视，轻视
+ 883.  despoil           v.掠夺
+ 884.  despondent        a.忧郁的；沮丧的
+ 885.  despot            n.暴君
+ 886.  destitute         a.一贫如洗
+ 887.  desultory         a.慢无目的的；断断续续的
+ 888.  detached          a.分离的
+ 889.  detergent         n.洗洁精；洗涤剂
+ 890.  determination     n.决定；测量，计算；解决
+ 891.  deterrent         n.挫败；使气馁
+ 892.  detonation        n.引爆，爆炸
+ 893.  detraction        n.诽谤
+ 894.  detrimental       a.有害的
+ 895.  deviate           v.背离
+ 896.  devious           a.拐弯抹角的；偏僻的
+ 897.  devise            v.设计；发明
+ 898.  devoid            a.缺乏的
+ 899.  devotee           n.热心的追随者
+ 900.  devout            a.虔诚的；诚恳的
+ 901.  dexterous         a.灵巧的；右撇子
+ 902.  diabolical        a.恶魔的
+ 903.  diagnosis         n.诊断
+ 904.  discomfit         v.扰乱
+ 905.  discomposure      n.心乱；不安
+ 906.  disconcert        v.迷惑；扰乱；使难堪
+ 907.  disconsolate      a.悲伤；沮丧
+ 908.  discord           n.冲突的；不和谐的
+ 909.  discordant        a.不和谐的；冲突的
+ 910.  discount          v.漠视；解散
+ 911.  discourse         n.演讲；谈话
+ 912.  discredit         v.不信任；丢脸
+ 913.  discrepancy       n.相差；缺乏一致
+ 914.  discrete          a.分离；没有关系的
+ 915.  discretion        n.判断力；审慎的
+ 916.  discriminating    a.有识别能力的；有偏见的
+ 917.  discursive        a.散漫的；不得要领的
+ 918.  disdain           v.蔑视
+ 919.  disembark         v.登陆；靠岸
+ 920.* disenfranchise    v.剥夺（公民权）
+ 921.  disengage         v.脱离；分离
+ 922.  disfigure         v.诬陷，抹黑，诽谤
+ 923.  disgorge          v.吐出，涌出，呕吐
+ 924.  disgruntle        v.使郁闷
+ 925.  dishearten        v.挫败
+ 926.  disheveled        a.邋遢，肮脏
+ 927.  disinclination    n.不情愿，厌恶
+ 928.  disingenuous      a.不诚恳的
+ 929.  disinter          v.挖出，出土
+ 930.  disinterested     a.公允的
+ 931.  disjointed        a.断开
+ 932.  dislodge          v.强制移除
+ 933.  dismantle         v.拆除
+ 934.  dismay            v.使沮丧；使害怕
+ 935.  dismember         v.分解，肢解
+ 936.  dismiss           v.拒绝；排除
+ 937.  disparage         v.忽略，轻视
+ 938.  disparate         a.大相径庭的；没关系的
+ 939.  disparity         n.不同；差距
+ 940.  dispassionate     a.平静的；公平的
+ 941.  dispatch          n.急速；急件
+ 942.  dispel            v.散开；分裂；消失
+ 943.  disperse          v.散开
+ 944.  dispirited        a.没情绪的，沮丧的
+ 945.  disputatious      a.好辩的
+ 946.  disquiet          v.使焦虑，使难受
+ 947.  dissection        n.分析；解剖
+ 948.  dissemble         v.伪装，做作，掩饰
+ 949.  disseminate       v.分发，扩散，散布
+ 950.  dissent           v.反对
+ 951.  dissertation      n.论文（博士生）
+ 952.  dissident         a.持不同意见的；难于对付的
+ 953.  dissimulate       v.伪装，做作，掩饰
+ 954.  dissipate         v.驱散，消散；浪费
+ 955.  dissolute         a.放纵，挥霍
+ 956.  dissolution       n.解散；终止；解体
+ 957.  dissonance        n.不和谐的（声音）
+ 958.  dissuade          v.劝阻；使灰心
+ 959.  distant           a.冷漠的；远离的
+ 960.  distend           v.扩大；扩张
+ 961.  distill           v.蒸馏；萃取，提炼，提纯
+ 962.  distinction       n.出名；出格
+ 963.  distort           v.扭曲，歪曲
+ 964.  distraught        a.使悲伤；使焦虑
+ 965.  diurnal           a.日常的
+ 966.  diva              n.著名女歌唱家，天后；歌剧女主角
+ 967.  diverge           v.多样的；各异的
+ 968.  divergent         a.分歧的
+ 969.  diverse           a.丰富多样的
+ 970.  diversion         n.转移；解闷
+ 971.  diversity         n.多样性
+ 972.  divest            v.剥夺
+ 973.  divine            v.运用直觉，超能力；预见
+ 974.  divulge           v.揭开，暴露
+ 975.  docile            a.驯服的，听话的；善良的
+ 976.  doctrinaire       a.教条的；顽固的
+ 977.  doctrine          n.教育；学说
+ 978.  document          v.书面证明
+ 979.  doff              v.脱
+ 980.  dogged            a.顽固的；顽强的
+ 981.  doggerel          n.打油诗
+ 982.  dogmatic          a.独断的，教条的，固执的
+ 983.  doldrums          n.忧郁，悲伤
+ 984.  doleful           a.悲伤
+ 985.  dolt              n.愚蠢的人，蠢货
+ 986.  domicile          n.家
+ 987.  domineer          v.暴力压制
+ 988.  don               v.穿上
+ 989.  doodle            v.涂鸦；浪费时间
+ 990.  dormant           a.睡着的；隐匿的
+ 991.  dormer            n.天窗
+ 992.  dossier           n.档案，资料
+ 993.  dote              v.昏聩；溺爱
+ 994.  douse             v.浸泡；弄湿；弄灭
+ 995.  dowdy             a.邋遢的；衣衫不整
+ 996.  downcast          a.沮丧
+ 997.  drab              a.迟钝的；单调的
+ 998.  draconian         a.极其严重
+ 999.  dregs             n.沉淀物；残渣
+1000.  drivel            n.胡言乱语；愚蠢
+1001.  droll             a.滑稽可笑；离奇古怪，怪里怪气
+1002.  drone             n.闲人；雄蜂
+1003.  drone             v.嗡嗡声；语气呆板的声音
+1004.  dross             n.渣滓，废物
+1005.  drudgery          n.苦差事，苦工
+1006.  dubious           a.可疑的
+1007.  ductile           a.柔软的，有韧性
+1008.  dulcet            a.甜美的（声音）
+1009.  dumbfound         v.使人惊讶
+1010.  dupe              n.易被开涮的人
+1011.  duplicity         n.奸诈，狡猾；伪善；两面三刀，两面派
+1012.  duration          n.持续时间
+1013.  duress            n.（非法的）限制，关押
+1014.  dutiful           a.恭敬的；尊重的
+1015.  dwarf             v.使看上去矮小
+1016.  dwindle           v.缩水；减少
+1017.  dynamic           a.充满活力的
+1018.  earthy            a.粗糙的；未加工的
+1019.  ebb               v.衰退
+1020.  ebullient         a.热情的，激动的
+1021.  eccentric         a.古怪的，奇怪的
+1022.  eccentricity      n.怪僻，古怪；特性
+1023.  ecclesiastic      a.神职的
+1024.  eclectic          a.折衷的
+1025.  eclipse           v.超越；衰落；失色
+1026.  ecologist         n.生态学家
+1027.  economy           n.俭省节约的，经济的
+1028.  ecstasy           n.全神贯注，入迷，高兴
+1029.  eddy              n.漩涡
+1030.  edict             n.法令，号令；布告
+1031.  edify             v.教导；启迪，陶冶
+1032.  eerie             a.怪异的
+1033.  efface            v.抹掉
+1034.  effectual         a.有效的
+1035.  effervescence     n.泡腾，沸腾；兴奋，活泼
+1036.  efficacy          n.功效
+1037.  effigy            n.假人（被人憎恨的，如秦桧）
+1038.  effrontery        n.厚颜无耻
+1039.  effusive          a.激情澎湃的
+1040.  egoism            n.自我中心，利己主义
+1041.  egotistical       a.极度自我中心；自以为是，逞能
+1042.  egregious         a.及其令人痛恨的，声名狼藉；令人吃惊的
+1043.  egress            n.出口
+1044.  ejaculation       n.迸出；惊叹
+1045.  elaboration       n.细节；复杂
+1046.  elated            a.过分高兴的；兴高采烈
+1047.  elegy             n.挽歌，悲歌
+1048.  elicit            v.得出
+1049.  elixir            n.包治百病，万能药
+1050.  ellipsis          n.省略
+1051.  elliptical        a.椭圆的；有意模棱两可的
+1052.  eloquence         n.雄辩；修辞
+1053.  elucidate         v.解释；启迪
+1054.  elusive           a.难懂的，难捉摸的；令人困惑的
+1055.  emaciated         a.瘦弱的，脆弱的
+1056.  emanate           v.散发，发出
+1057.  emancipate        v.释放，解放
+1058.  embargo           n.禁运
+1059.  embark            v.开始旅程，开始，登机，上船，上车
+1060.  embed             v.封装，嵌入，插入
+1061.  embellish         v.装饰
+1062.  embezzlement      n.偷窃，侵占
+1063.  embody            v.具体化；包含，收录
+1064.  embrace           v.拥抱；接受，包含
+1065.  embroider         v.镶边，绣花；添油加醋
+1066.  embroil           v.连累，牵连；使其混乱，麻烦缠身
+1067.  embryonic         a.胚胎的；未开发的，原始的
+1068.  emendation        n.改进；修订
+1069.  eminent           a.高的
+1070.  emissary          n.代理；信使，使者
+1071.  emollient         n.缓和，安抚
+1072.  empathy           n.移情作用，心入
+1073.  empirical         a.经验主义
+1074.  emulate           v.仿效；抗衡
+1075.  enamored          a.爱情的；坠入爱河的
+1076.  encipher          v.编码
+1077.  enclave           n.飞地
+1078.  encomium          n.赞美之词
+1079.  encompass         v.包围
+1080.  encroachment      n.侵蚀；“和平演变”
+1081.  encumber          v.拖累，负担
+1082.  endearment        n.爱慕；爱的表示
+1083.  endemic           a.地方的；小范围内流行
+1084.  endorse           v.认可，默许；支持
+1085.  enduring          a.持久的；不朽的
+1086.  energize          v.鼓舞
+1087.  enervate          v.使变弱
+1088.  enfranchise       v.赋予公民权（投票权）
+1089.  engage            v.吸引；雇佣；答应；结合；订婚
+1090.  engaging          a.有魅力的，有吸引力的
+1091.  engender          v.产生，导致
+1092.  engross           v.独占
+1093.  enhance           v.增加；改进
+1094.  enigma            n.谜
+1095.  enigmatic         a.朦胧的；谜一样的
+1096.  enmity            n.憎恨；仇恨
+1097.  ennui             n.厌倦
+1098.  enormity          n.巨大的，严重的，极恶劣
+1099.  enrapture         v.使其狂喜
+1100.  ensconce          v.安排妥当
+1101.  ensemble          n.全体；歌舞团；套装
+1102.  entail            v.要求，需要；牵涉到
+1103.  enterprising      a.有魄力
+1104.  enthrall          v.俘获
+1105.  entice            v.吸引；引诱
+1106.* entitlement       n.权利
+1107.  entity            n.实体
+1108.  entomology        n.昆虫学
+1109.  entourage         n.随从，随行人员
+1110.  entrance          v.使其着迷；使其神志恍惚
+1111.  entreat           v.恳求
+1112.  entrepreneur      n.商人，企业家，承包人
+1113.  enumerate         v.枚举
+1114.  enunciate         v.阐明
+1115.* eon               n.时代
+1116.  ephemeral         a.朝生暮死，短暂，短命
+1117.  epic              n.史诗；剧作
+1118.  epicure           n.老饕；享乐主义者
+1119.  epigram           n.警句；讽刺民谣
+1120.  epilogue          n.尾声；收场白
+1121.* episodic          a.插曲式的
+1122.  epistolary        a.书信的
+1123.  epitaph           n.墓志铭，挽联
+1124.  epithet           n.绰号
+1125.  epitome           n.典型，摘要
+1126.  epoch             n.时代
+1127.  equable           a.平静的，均衡的，稳定的
+1128.  equanimity        n.镇定
+1129.  equestrian        n.骑师
+1130.  equilibrium       n.平衡
+1131.  equine            a.似马的
+1132.  equinox           n.昼夜平分点，春分，秋分
+1133.  equitable         a.公平的，公允的
+1134.  equity            n.公平，公正
+1135.  equivocal         a.蓄意误导；含混，模棱两可
+1136.  equivocate        v.撒谎；误导
+1137.  erode             v.侵蚀
+1138.  erotic            a.激情的
+1139.  erratic           a.奇怪的；不可预测的
+1140.  erroneous         a.错误
+1141.  erudite           a.博学的
+1142.  escapade          n.胡闹；奇怪、出格的行为
+1143.* escapism          n.逃避现实，纸醉金迷
+1144.  eschew            v.避免
+1145.  esoteric          a.难以理解的，深奥的
+1146.  espionage         n.间谍行为
+1147.  espouse           v.接受，支持
+1148.  esteem            v.尊重；估价
+1149.  estranged         a.分离的；孤立的
+1150.  ethereal          a.轻的，空气的；像天堂的
+1151.  ethnic            a.种族的
+1152.  ethos             n.社会精神特质，思潮，风气；气质
+1153.  etymology         n.语源学
+1154.  eulogy            n.颂词；赞美词
+1155.  euphemism         n.委婉的表达
+1156.  euphonious        a.悦耳的
+1157.  euphoria          n.非常愉快；病态的愉快，愉悦症
+1158.  evanescent        a.消散的；凋零的
+1159.  evasive           a.逃避的
+1160.* evenhanded        a.公平的
+1161.  evince            v.表示
+1162.  evocative         a.唤起的
+1163.  ewe               n.母羊
+1164.  exacerbate        v.恶化，加剧
+1165.  exacting          a.苛刻的
+1166.  exalt             v.晋升；赞扬
+1167.  exasperate        v.激怒
+1168.  exceptionable     a.不可的，可反对的
+1169.  excerpt           n.摘抄，摘录
+1170.  excise            v.去除
+1171.  exclaim           v.呼喊，大叫
+1172.  excoriate         v.责难，挖苦，批判；揭露
+1173.  exculpate         v.开脱，洗脱
+1174.  execrable         a.非常糟糕的
+1175.  execute           v.执行，完成
+1176.  exegesis          n.解释，注解，通译
+1177.  exemplary         a.出色的；典范的；（杀鸡儆猴的）例子
+1178.  exemplify         v.作为典型；具体化
+1179.  exempt            a.被免除的
+1180.  exertion          n.努力，尽力
+1181.  exhaustive        a.彻底的，完全的
+1182.  exhilarating      a.爽快的，使人愉快的
+1183.  exhort            v.劝诫，忠告
+1184.  exhume            v.出土，发掘
+1185.  exigency          n.紧急情况
+1186.  exodus            n.离开，启程
+1187.  exonerate         v.开脱，免罪
+1188.  exorbitant        a.过度的
+1189.  exorcise          v.驱邪
+1190.  exotic            a.陌生的，外来的，奇异的，异国情调
+1191.  expansive         a.扩张的；爽快的；广阔的
+1192.  expatriate        n.放逐；被放逐者
+1193.  expedient         a.合适的，有利的；策略性的
+1194.  expedite          v.加速，催促
+1195.  expenditure       n.支出，花费
+1196.  expertise         n.专业知识，技能
+1197.  expiate           v.赎罪
+1198.  expletive         n.感叹词；咒骂
+1199.  explicate         v.解释，澄清
+1200.  explicit          a.清晰的；坦率的
+1201.  exploit           n.壮举
+1202.  exploit           v.开发，开拓
+1203.* expository        a.解释性的
+1204.  exposure          n.曝光，揭露；暴露（于疾病等）的状态
+1205.* expropriate       v.没收，剥夺，征用
+1206.  expunge           v.取消，去除，排除
+1207.  expurgate         v.清除，净化
+1208.  extant            a.现存的
+1209.  extent            n.范围；程度
+1210.  extenuate         v.弱化；减轻
+1211.  extol             v.赞美
+1212.  extort            v.敲诈，勒索
+1213.  extradition       n.引渡
+1214.  extraneous        a.肤浅的，不重要的
+1215.  extrapolation     n.推测，推断
+1216.  extricate         v.解脱，放出，释放
+1217.  extrinsic         a.外围的，不重要的；外来的
+1218.  extrovert         n.性格外向的人
+1219.  extrude           v.挤压，逼
+1220.  exuberance        n.富得流油的；精力充沛；浪费，过度
+1221.  exude             v.卸下，流出
+1222.  exult             v.高兴，兴高采烈
+1223.  fabricate         v.制造；编造（谎言）
+1224.  facade            n.正面的；表面的，肤浅的
+1225.  facet             n.（宝石的）琢面；方面
+1226.  facetious         a.不合时宜的玩笑；幽默
+1227.  facile            a.充足的；容易完成的；肤浅的
+1228.  facilitate        v.促进；帮助；使变容易
+1229.  facsimile         n.复制品
+1230.  faction           n.派别；内讧；纠纷
+1231.  faculty           n.才能，教职员工
+1232.  fallacious        a.假的；误导的
+1233.  fallible          a.容易犯错的
+1234.  fallow            a.休耕地；潜伏的；不活跃的
+1235.  falter            v.犹豫；踌躇
+1236.  fanaticism        n.狂热的，盲目的
+1237.  fancy             n.爱好；奇特；想象
+1238.  fanfare           n.号角声
+1239.  farce             n.闹剧；嘲笑
+1240.  fastidious        a.挑剔的；难伺候的
+1241.  fatalism          n.宿命论
+1242.  fathom            v.领会；调查，测量
+1243.  fatuous           a.愚蠢的；不可理喻的；不理智的
+1244.  fauna             n.动物志
+1245.  fawning           a.奉承
+1246.* faze              v.折磨，打击
+1247.  feasible          a.可行的
+1248.  fecundity         n.丰饶
+1249.  feign             v.假装；捏造
+1250.  feint             n.假的，淡的，不鲜明的；佯攻
+1251.  felicitous        a.措辞巧妙的；精巧的
+1252.  felicity          n.欢乐；适当
+1253.  fell              a.凶猛的，致命的
+1254.  fell              v.放倒，打倒
+1255.  felon             n.重罪犯
+1256.  feral             a.野生的，未驯服的
+1257.  ferment           n.激怒；挑起骚动、暴乱
+1258.  ferret            v.侦查；搜出；赶出
+1259.  fervent           a.炙热的
+1260.  fervid            a.炙热的
+1261.  fervor            n.热情；激情
+1262.  fester            v.使溃烂，化脓
+1263.  festive           a.欢乐；庆祝
+1264.  fetid             a.恶臭的
+1265.  fetter            v.羁绊
+1266.  fiasco            n.彻底失败
+1267.  fickle            a.变化无常的；薄情的
+1268.  fictitious        a.想象的
+1269.  fidelity          n.忠诚
+1270.  figment           n.发明；臆造的事务
+1271.  figurative        a.比喻
+1272.  figurine          n.小雕像
+1273.  filament          n.灯丝；精细的织物或线
+1274.  filch             v.偷
+1275.  filial            a.子女的
+1276.  filibuster        v.（发表长篇演讲来）阻挠法案通过
+1277.  finale            n.结论，结尾，结局
+1278.  finesse           n.精密的技巧
+1279.  finicky           a.过分讲究；鸡毛蒜皮
+1280.  firebrand         n.总惹麻烦的人，惹事生非者，捣乱人
+1281.  fissure           n.裂缝；分歧
+1282.  fitful            a.断断续续；间歇
+1283.* flabbergasted     a.大吃一惊；目瞪口呆
+1284.  flaccid           a.软弱的；无活力的
+1285.  flag              v.萎缩；衰退
+1286.  flagrant          a.非常坏的；残忍的；恶名昭著的
+1287.  flair             n.才能
+1288.  flamboyant        a.华丽的
+1289.  flaunt            v.招摇；炫耀
+1290.  fleck             v.使起斑点
+1291.  fledgling         a.无经验的
+1292.  fleece            n.羊毛外套
+1293.  fleece            v.抢劫；诈骗
+1294.  flick             n.轻弹；轻打
+1295.  flinch            v.畏首畏尾，退缩；犹豫
+1296.  flippant          a.轻率的，没礼貌的，嬉皮笑脸的
+1297.  flit              v.掠过
+1298.  floe              n.浮殡冰块；大浮冰
+1299.  flora             n.植物志
+1300.  florid            a.华丽的；红润的
+1301.  flounder          v.挣扎，辗转；困难地奋斗
+1302.  flourish          v.生长；繁荣；装饰
+1303.  flout             v.轻视；嘲笑；愚弄
+1304.  fluctuate         v.波动的；起伏的，摇摆不定的
+1305.  fluency           n.（语言）流利
+1306.  fluke             n.意外；小概率事件
+1307.  fluster           v.使混乱，使迷惑
+1308.  flux              n.变迁；流动
+1309.  fodder            n.粗饲料；饲养
+1310.  foible            n.缺点；弱点
+1311.  foil              n.烘托；衬托
+1312.  foil              v.打击；打败，挫败
+1313.  foliage           n.树叶
+1314.  foment            v.鼓动，煽动
+1315.  foolhardy         a.愚勇的；傻大胆儿
+1316.  fop               n.花花公子；过分注意衣着的男人
+1317.  forbearance       n.耐心
+1318.  ford              n.津；浅滩
+1319.* forebears         n.前人；祖先
+1320.  foreboding        n.不详的预感
+1321.  forensic          a.法院的；适于法庭的
+1322.  foreshadow        v.预言；预测
+1323.  foresight         n.洞察力
+1324.  forestall         v.预防
+1325.  forgo             v.放弃
+1326.  forlorn           a.孤苦的，凄凉的
+1327.  formality         n.仪式；礼节
+1328.  formidable        a.威胁的，险恶的
+1329.  forsake           v.放弃
+1330.  forswear          v.放弃
+1331.  forte             n.强项，特殊才能
+1332.  forthright        a.坦率的；豪爽的
+1333.  fortitude         n.勇敢的
+1334.  fortuitous        a.偶然的
+1335.  forum             n.论坛
+1336.  foster            v.养育，培养；鼓励
+1337.  founder           v.完全失败；沉默
+1338.  founder           n.创办人
+1339.  fracas            n.争吵；混战
+1340.  fractious         a.蛮横倔强的
+1341.  frail             a.弱的
+1342.  franchise         n.公民权；营业执照
+1343.  frantic           a.狂乱
+1344.  fraternize        v.友善
+1345.  fraudulent        a.欺骗的
+1346.  fraught           a.满的
+1347.  fray              n.争吵
+1348.  frenetic          a.发狂的
+1349.  frenzied          a.狂乱的
+1350.  fresco            n.壁画
+1351.  fret              v.被激怒
+1352.  friction          n.摩擦
+1353.  frigid            a.刺骨寒
+1354.  frivolous         a.轻佻的；嬉皮笑脸的
+1355.  frolicsome        a.闹着玩的；嬉戏的
+1356.  frond             n.棕榈叶；蕨叶
+1357.  frugality         n.俭省节约
+1358.  fruition          n.享用；成就；实现
+1359.  frustrate         v.阻碍；挫败
+1360.  fugitive          a.短暂的，易变的；流动的
+1361.  fulcrum           n.（杠杆的）支点
+1362.  fulsome           a.过分的
+1363.  fundamental       v.基本的，基础的
+1364.  furlough          n.休假
+1365.  furor             n.非常激动
+1366.  furtive           a.隐秘的；偷偷摸摸，鬼祟
+1367.  fusion            n.熔合；熔接
+1368.  futile            a.没出息；无望，没效果的
+1369.  gadfly            n.牛蝇；招人烦的人
+1370.  gaffe             n.失态；出丑
+1371.  gainsay           v.否认，拒绝
+1372.  gait              n.步态，步法；速度
+1373.  galaxy            n.星系；一群显赫的人；一系列重要的人或物
+1374.  gale              n.大风；一阵感情的爆发
+1375.  gall              n.痛苦；烦恼；恼怒
+1376.  gall              v.惹恼；侮辱
+1377.  galleon           n.大帆船
+1378.  galvanize         v.电镀；刺激，激励
+1379.  gambit            n.弃子抢先
+1380.* gamely            ad.勇敢的，有精神的
+1381.  gamut             n.整个领域
+1382.  gape              v.张着嘴呆看；裂缝
+1383.* garbled           a.混淆
+1384.  gargantuan        a.巨大的
+1385.  garish            a.俗气；颜色太杂
+1386.  garner            v.收集，储存
+1387.  garnish           v.装饰
+1388.  garrulous         a.贫嘴
+1389.  gauche            a.粗笨的，粗糙的
+1390.  gaudy             a.华而不实的
+1391.  gaunt             a.瘦骨嶙峋，憔悴；荒芜
+1392.  gavel             n.棒槌
+1393.  gawk              v.张着嘴呆看
+1394.  genealogy         n.家谱
+1395.  generality        n.一般性
+1396.  generate          v.产生；创造
+1397.  generic           a.普通的
+1398.  genesis           n.发源，源头
+1399.  geniality         n.亲切；同情
+1400.  genre             n.风格（文学、艺术）
+1401.  genteel           a.上流的
+1402.  gentility         n.有教养，文雅
+1403.  gentry            n.贵族
+1404.  germane           a.密切相关
+1405.* germinal          a.未成熟的，幼芽的
+1406.  germinate         v.发芽
+1407.  gesticulation     n.动作；手势
+1408.  ghastly           a.恐怖的
+1409.  gibberish         n.胡话；嘟囔
+1410.  gibe              v.嘲笑
+1411.  giddy             a.眼花缭乱
+1412.  gingerly          ad.小心翼翼地
+1413.  girth             n.方圆；周围环境
+1414.  gist              n.精华
+1415.  glacial           a.冰河的，冰川的
+1416.  glaring           a.耀眼的
+1417.  glaze             v.上釉
+1418.  glib              a.光滑，柔顺；口齿伶俐，圆滑
+1419.  glimmer           v.闪烁
+1420.  gloat             v.垂涎；幸灾乐祸，洋洋得意
+1421.  glossary          n.词汇表
+1422.  gloss over        v.掩盖
+1423.  glossy            a.光滑有光泽的
+1424.  glower            v.瞪着，愤怒的看着
+1425.  glut              v.充斥；过量
+1426.  glutton           n.暴饮暴食者，饭桶
+1427.  gnarled           a.扭曲
+1428.  gnome             n.地精；小矮人；土地公公
+1429.  goad              v.刺激；激励；驱策
+1430.  gorge             n.峡谷
+1431.  gorge             v.狼吞虎咽
+1432.  gory              a.血腥的
+1433.  gouge             v.挖出；撕下
+1434.  gourmand          n.老饕
+1435.  gourmet           n.品尝家；美食比赛的评委
+1436.  graduated         a.分级；排序
+1437.  graft             n.移植；移植物；嫁接
+1438.  grandeur          n.庄严，伟大，威严
+1439.  grandiloquent     a.语言夸张的；词藻浮华的
+1440.  grandiose         a.自命不凡；堂皇；夸张的
+1441.  granulate         v.粒化
+1442.  graphic           a.图像的；图画的
+1443.  grapple           v.格斗，摔跤
+1444.  grate             v.磨碎；惹恼；因摩擦发出的刺耳声音
+1445.  gratify           v.取悦
+1446.  gratis            a.免费的
+1447.  gratuitous        a.无条件的；无理由的；免费的
+1448.  gravity           n.重力；严重，庄严，严肃
+1449.  gregarious        a.社交的；群居
+1450.  grievance         n.委屈；冤情；不平
+1451.  grill             v.盘问
+1452.  grimace           n.扭曲的脸；做鬼脸
+1453.  grisly            a.毛骨悚然的；恐怖的，可怕的
+1454.  grouse            v.发牢骚
+1455.  grotesque         a.稀奇古怪的；怪异
+1456.  grove             n.小树林
+1457.  grovel            v.趴，匍匐
+1458.  grudging          a.不情愿；勉强
+1459.  gruel             v.稀粥；极度紧张
+1460.  grueling          a.重罚；使其筋疲力尽
+1461.  gruesome          a.可怕的
+1462.  gruff             a.粗糙的；粗暴的
+1463.  guffaw            n.狂笑，哄笑
+1464.  guile             n.奸诈狡猾；诡计
+1465.  guileless         a.诚实的
+1466.  guise             n.外观；装束
+1467.  gullible          a.易受骗的
+1468.  gustatory         a.味觉的
+1469.  gusto             n.爱好，嗜好；喜欢
+1470.  gusty             a.多风的
+1471.  hackneyed         a.常见的；不希罕，陈腐
+1472.  haggard           a.枯槁的；憔悴的
+1473.  haggle            v.讨价还价
+1474.  hallowed          a.神圣化的
+1475.  hallucination     n.幻觉，幻想
+1476.  halting           a.犹豫的
+1477.  hamper            v.阻挡，牵制，妨碍
+1478.  haphazard         a.随机的
+1479.  harangue          n.夸大的讲话
+1480.  harass            v.烦恼
+1481.  harbinger         n.先驱
+1482.  harbor            v.庇护；隐藏
+1483.  hardy             a.艰苦的；勇敢的
+1484.  harrowing         a.痛苦；悲怆
+1485.  haughtiness       n.傲慢；不逊
+1486.  hazardous         a.危险的
+1487.  hazy              a.朦胧的；模糊的
+1488.  headlong          a.轻率的
+1489.  headstrong        a.硬脖子；任性；不屈
+1490.* heckler           n.质问者
+1491.  hedonist          n.享乐主义者
+1492.  heed              v.注意，关注，留意
+1493.  heedless          a.轻蔑的；不理睬的
+1494.  heinous           a.可恶的，令人深恶痛绝
+1495.  herbivorous       a.吃粮食的（动物）
+1496.  heresy            n.少数意见，异端
+1497.  hermetic          a.密封的，气密的
+1498.  hermitage         n.隐居的居所
+1499.  heterodox         a.非主流；异端
+1500.  heterogeneous     a.异类，异种；不纯
+1501.  heyday            n.鼎盛时期
+1502.  hiatus            n.缝隙；短暂的空白
+1503.* hibernal          a.冬天的
+1504.  hibernate         v.冬眠
+1505.  hierarchy         n.分级，排序了的
+1506.  hilarity          n.狂欢，欢闹
+1507.  hindrance         n.障碍物
+1508.  histrionic        a.戏剧性的
+1509.  hoard             v.储藏
+1510.  hoary             a.灰白的
+1511.  hoax              n.伎俩；小聪明
+1512.* hodgepodge        n.大杂烩
+1513.  holster           n.手枪套
+1514.  homage            n.敬意
+1515.  homogeneous       a.同类的
+1516.  hone              v.磨尖
+1517.  hoodwink          v.欺骗，迷惑，蛊惑
+1518.  horde             n.拥挤
+1519.  horticultural     a.园艺的
+1520.  host              n.很多；主人；宿主
+1521.  hostility         n.不友好，敌意
+1522.  hovel             n.小屋
+1523.  hover             v.逗留；盘旋；等待
+1524.  hue               n.色调
+1525.  hulking           a.大量的，巨大的
+1526.  humane            a.仁慈
+1527.  humdrum           a.单调的
+1528.  humid             a.潮湿的
+1529.  humility          n.谦逊
+1530.  hurtle            v.冲击；碰撞；急冲
+1531.  husband           v.节约
+1532.  hybrid            n.混合的，混血的
+1533.  hydrophobia       n.恐水症；狂犬病
+1534.  hyperbole         n.夸张
+1535.  hypercritical     a.及其夸张
+1536.  hypochondriac     n.无病呻吟；忧郁症
+1537.  hypocritical      a.伪善；欺骗
+1538.  hypothetical      a.基于假设的，设想的，假想的
+1539.  ichthyology       n.鱼类学
+1540.  icon              n.偶像，象征；图标
+1541.  iconoclastic      a.打破旧习
+1542.  ideology          n.意识形态
+1543.  idiom             n.习语；成语
+1544.  idiosyncrasy      n.特性，特质；古怪的，离心的
+1545.  idolatry          n.过度崇拜
+1546.  ignite            v.点燃
+1547.  ignoble           a.不高贵的；不光彩的
+1548.  ignominy          n.丢脸；抹黑；耻辱
+1549.  illicit           a.非法的
+1550.  illimitable       a.无限
+1551.  illuminate        v.照亮；明朗；澄清
+1552.  illusion          n.幻觉
+1553.  illusory          a.虚幻的，不真实的
+1554.  imbalance         n.不平衡，不成比例
+1555.  imbibe            v.吸收
+1556.  immaculate        a.无暇的
+1557.  imminent          a.即将到来，逼近的
+1558.  immobility        n.无法移动，不可移动的
+1559.  immune            a.免疫；抵抗
+1560.  immutable         a.不可动摇的，不能改变的
+1561.  impair            v.伤害
+1562.  impale            v.刺穿
+1563.  impalpable        a.难以明了，难以觉察的
+1564.  impart            v.赋予；告诉
+1565.  impartial         a.公平的
+1566.  impassable        a.无路可通的；没法通行
+1567.  impasse           n.走投无路；僵局
+1568.  impassive         a.冷漠的
+1569.  impeach           v.控告，检举；弹劾
+1570.  impeccable        a.没有缺点
+1571.  impecunious       a.身无分文的
+1572.  impede            v.阻止；拖延
+1573.  impediment        n.妨碍；障碍物
+1574.  impel             v.驱使
+1575.  impenetrable      a.难以进入的；难以渗透的；不可理解的
+1576.  impending         a.接近的；附近的
+1577.  impenitent        a.执迷不悟的
+1578.  imperative        a.及其重要，及其关键
+1579.  imperceptible     a.察觉不到的
+1580.  imperial          a.帝王的；皇帝的
+1581.  imperious         a.专横的
+1582.  impermeable       a.不能渗透的
+1583.  impertinent       a.不相干的；鲁莽的
+1584.  imperturbable     a.沉着冷静；平静
+1585.  Impervious        a.不会被损的；不能渗透的
+1586.  impetuous         a.冲动的，鲁莽的
+1587.  impetus           n.动力；动机
+1588.  impiety           n.不敬（对神）；不虔诚
+1589.  impinge           v.撞击；碰撞
+1590.  impious           a.不敬的；不礼貌的
+1591.  implacable        a.不能平静的
+1592.  implausible       a.难以臵信的；不像是真?
+1593.  implement         v.贯彻，实现；用工具实现
+1594.  implicate         v.牵连，牵扯（犯罪）；暗示
+1595.  implication       n.含义；暗示
+1596.  implicit          a.会意的，意会而不言传；暗示的
+1597.  implore           v.恳求
+1598.  imply             v.暗示；表示
+1599.  importunate       a.胡搅蛮缠的；苛刻的
+1600.  importune         v.强求；不停的求
+1601.  impostor          n.冒充者；冒名顶替的人
+1602.  impotent          a.无能的；弱的
+1603.  impoverished      a.穷
+1604.  impregnable       a.不受影响的；无敌的
+1605.  impromptu         a.一时冲动的；即兴的
+1606.  impropriety       n.不合适，不恰当
+1607.  improvident       a.浪费的
+1608.  improvise         v.临时准备；即席创作，现编
+1609.  imprudent         a.轻率的，判断错误的
+1610.  impudence         n.无礼；厚颜无耻
+1611.  impugn            v.打击；挑战
+1612.  impunity          n.免受惩罚
+1613.  inadvertently     ad.不经意的
+1614.  inalienable       a.无可取代的；不能给与的
+1615.  inane             a.傻；粗心
+1616.  inanimate         a.了无生气的，死气沉沉的
+1617.  inarticulate      a.不善于表达的；口齿不清的
+1618.  inaugurate        v.开始；开幕；开幕式
+1619.  incandescent      a.白炽的
+1620.  incantation       n.咒语
+1621.  incapacitate      v.使其无能力
+1622.  incarcerate       v.囚禁
+1623.  incarnation       n.化身；具人形
+1624.  incendiary        n.纵火者
+1625.  incense           v.激怒
+1626.  incentive         n.刺激，驱动
+1627.  inception         n.开始，开端
+1628.  incessant         a.不停的
+1629.  inchoate          a.未成型的，早期的，刚开始的，发展中的
+1630.  incidence         n.发生；发生率；影响的范围；入舐角；关联
+1631.  incidental        a.不重要的；少数的
+1632.  incipient         a.开始；早期的
+1633.  incisive          a.尖锐；深刻，激烈
+1634.  incite            v.煽动，刺激，驱使
+1635.  inclement         a.险恶的；严酷的
+1636.  incline           n.倾斜，斜面
+1637.  inclined          a.倾向；倾向于，弯曲
+1638.  inclusive         a.包揽一切的
+1639.  incoherent        a.缺乏逻辑的，不聪明的；陈腐的
+1640.  incompatible      a.不和谐；不兼容
+1641.  incongruous       a.不调和的；荒谬的
+1642.  inconsequential   a.不合理的，不重要的
+1643.  inconsistency     n.不一致的，自相矛盾的
+1644.  incontinent       a.缺乏自制力，放肆
+1645.  incontrovertible  a.无疑的，无可争议的
+1646.  incorporate       v.合并，联合
+1647.  incorporeal       a.非物质的，无形的；无实体的
+1648.  incorrigible      a.不可救药
+1649.  incredulous       a.怀疑的
+1650.  increment         n.增加
+1651.  incriminate       v.控告
+1652.  incrustation      n.驻扎
+1653.  incubate          v.孵卵
+1654.  inculcate         v.谆谆教导
+1655.  incumbent         a.义不容辞的，职责在身的
+1656.  incur             v.招致
+1657.  incursion         n.袭击
+1658.  indefatigable     a.疲倦
+1659.  indelible         a.去不掉的；不可磨灭的
+1660.  indentation       n.槽；小开口
+1661.  indenture         v.契约
+1662.  indeterminate     a.不确定
+1663.  indicative        a.预示的
+1664.  indices           n.pl.符号；暗示
+1665.  indict            v.控告；起诉
+1666.  indifferent       a.普通的，无关紧要的
+1667.  indigenous        a.土产的，土生土手的，本地的
+1668.  indigent          a.穷困的
+1669.  indignation       n.义愤；愤慨
+1670.  indignity         n.侮辱
+1671.  indiscretion      n.轻率；莽撞
+1672.  indiscriminate    a.随意的；不分青红皂白的
+1673.  indisputable      a.没有争论余地；非常清楚的
+1674.  indissoluble      a.不能分解的；永久的
+1675.  indoctrinate      v.教导；灌输
+1676.  indolent          a.懒惰
+1677.  indomitable       a.不屈服的；不可被征服的
+1678.  indubitable       a.不容臵疑的；无疑?
+1679.  induce            v.劝诱；导致，引起
+1680.  indulgent         a.宽容，纵容，溺爱
+1681.  industrious       a.勤奋的，努力的
+1682.  inebriated        a.醉的
+1683.  ineffable         a.不可言喻的，无法用语言表达的；不能说的
+1684.  ineffectual       a.无效的，弱的
+1685.* inefficacious     a.无能的，无效的
+1686.  inept             a.不相称的，不合适的，不称职的
+1687.* inequity          n.不公平
+1688.  inert             a.惰性的，不活跃的
+1689.  inevitable        a.不可避免地
+1690.  inexorable        a.无情的；残酷的
+1691.  infallible        a.一贯正确的
+1692.  infamous          a.臭名昭著的，恶名远扬的
+1693.  infantile         a.婴儿的，幼稚的
+1694.  infer             v.推导，总结
+1695.  infernal          a.魔鬼的，地狱的
+1696.  infidel           n.异教徒，异端；不信宗教的
+1697.  infiltrate        v.渗透
+1698.  infinitesimal     a.微小的
+1699.  infirmity         n.弱点
+1700.  inflated          a.夸张的，虚华的，被放大的
+1701.  influx            n.注入，流入
+1702.  informal          a.非正式的；不拘礼节的
+1703.  infraction        n.打破（常规）
+1704.  infuriate         v.激怒，热火
+1705.  infusion          n.灌输；浸泡；注入
+1706.  ingenious         a.聪明的
+1707.  ingenue           n.天真无邪的少女
+1708.  ingenuous         a.心无城府的；天真的；幼稚的；可信的
+1709.  ingrained         a.牢固的；深深扎根的；深入人心的
+1710.  ingrate           n.忘恩负义者；不领情的人
+1711.  ingratiate        v.迎合，讨好；流行开来
+1712.  inherent          a.固有的，内在的；与生俱来的
+1713.  inhibit           v.限制，防止；阻碍
+1714.  inimical          a.不友好的；敌意的；有害的
+1715.  inimitable        a.独一无二的，独特的；防伪的，难以模仿的
+1716.  iniquitous        a.邪恶的
+1717.  initiate          v.开始，发源
+1718.  injurious         a.有害的
+1719.  inkling           n.暗示，提示
+1720.  innate            a.先天的，天生的
+1721.  innocuous         a.无害的，无辜的
+1722.  innovation        n.发明；变革
+1723.  innovative        a.新奇的；创新的
+1724.  innuendo          n.暗示，旁侧敲击；暗讽；讽刺，冷嘲热讽
+1725.  inopportune       a.不合时宜的
+1726.  inordinate        a.紊乱的；不受限制的
+1727.  inquisitor        n.调查者；盘问者
+1728.* insalubrious      a.有害的
+1729.  insatiable        a.不容易伺候的；贪婪的
+1730.  inscrutable       a.不可渗透的；不可理解的，谜
+1731.  insensible        a.迟钝的；硬心肠的
+1732.  insidious         a.阴险的，奸诈的，狡猾的；鬼鬼祟祟的
+1733.* insightful        a.有洞察力的
+1734.  insinuate         v.暗示，含沙舐影；慢慢的夺取，巧妙的迂回
+1735.  insipid           a.索然无味的；单调的
+1736.  insolence         n.傲慢
+1737.  insolvent         a.破产
+1738.  insomnia          n.失眠
+1739.  instigate         v.驱使；激励，鼓动
+1740.  insubordination   n.反抗，不屈
+1741.  insubstantial     a.无实体的，虚无的；脆弱的，不坚固的
+1742.  insularity        n.与外界隔绝；僵化；思想狭窄
+1743.* insulated         a.分离；隔离
+1744.  insuperable       a.不可战胜的，不能克服的
+1745.  insurgent         a.造反的，起义的
+1746.  insurmountable    a.不能克服的，不能超越的
+1747.  insurrection      n.谋反的，造反的
+1748.  intangible        a.难以明了的，无形的；暧昧的，模糊的
+1749.  integral          a.一体的，完整的
+1750.  integrate         v.整合，合并
+1751.  integrity         n.完整性
+1752.  intellect         n.智力
+1753.  intelligentsia    n.知识分子；知识界
+1754.  intemperate       a.过度的；极端的；放纵的
+1755.  inter             v.埋
+1756.  interim           n.临时的；间歇的
+1757.  interloper        n.闯入者；干涉者
+1758.  interment         n.埋葬
+1759.  interminable      a.无尽的
+1760.  intermittent      a.间歇的；断断续续的
+1761.  interrogate       v.审问；讯问
+1762.  intervene         v.干预；干涉
+1763.  intimacy          n.亲密；隐私
+1764.  intimate          v.私下的，秘密的，亲密的；宣告
+1765.  intimidate        v.使害怕
+1766.  intractable       a.难以处理的
+1767.  intransigence     n.不妥协；不让步
+1768.  intrepid          a.无畏的
+1769.  intricate         a.复杂的；错综的
+1770.  intrinsic         a.内在的；固有的
+1771.  introspective     a.内省的；反省的
+1772.  intrude           v.强挤入，侵入；强加于人
+1773.  intuition         n.直觉
+1774.  inundate          v.淹没；吞并
+1775.  inured            a.习惯了的，适应了的
+1776.  invalidate        v.摧毁；使无效；弱化
+1777.* invasive          a.入侵的
+1778.  invective         n.谩骂；非难；恶言相加
+1779.  inverse           a.倒转的
+1780.  invert            v.倒转，翻转
+1781.  invidious         a.易招嫉妒的；不公平的
+1782.  invigorate        v.激发；鼓舞
+1783.  invincible        a.无敌的
+1784.  inviolable        a.无敌的；神圣不可亵渎的
+1785.  invocation        n.祈祷
+1786.  invoke            v.恳请，借助于，找来，调用
+1787.  invulnerable      a.无懈可击的
+1788.  iota              n.极少量的
+1789.  irascible         a.易怒的；暴躁的
+1790.  irate             a.愤怒的；生气的
+1791.  ire               n.怒气
+1792.  iridescent        a.虹彩的
+1793.  irksome           a.令人厌恶的；冗长乏味的
+1794.  ironic            a.讽刺性的
+1795.  irony             n.反话；讽刺
+1796.  irrational        a.无理的，缺乏逻辑的；不理智的
+1797.  irreconcilable    a.不相容的；矛盾的
+1798.  irrefutable       a.不可否认的；不能驳倒的
+1799.  irrelevant        a.不相关的，不照号的
+1800.  irremediable      a.不能挽回的；不能治愈的
+1801.  irreparable       a.不能弥补的，不能修复的；无可挽救的
+1802.  irrepressible     a.压不住的，抑制不住的
+1803.  irreproachable    a.无可指责的；没有缺点的
+1804.  irresolute        a.犹豫不决的
+1805.  irretrievable     a.不能复原的；不能挽回的
+1806.  irreverence       n.不尊敬的
+1807.  irrevocable       a.不能取消的；不能变更的
+1808.  itinerant         a.巡回的
+1809.  itinerary         n.旅行计划；路线
+1810.  jabber            v.快速的说，含混不清的说
+1811.  jaded             a.疲倦的
+1812.  jargon            n.黑话，行话，胡话
+1813.  jaundiced         a.患黄疸病的；有偏见的
+1814.  jaunt             n.短途旅行
+1815.  jaunty            a.无忧无虑的，快乐的，轻松的
+1816.  jeopardize        v.臵于危险之?
+1817.  jettison          v.投弃货物
+1818.  jingoist          n.狂热好战分子；侵略主义者
+1819.  jocose            a.诙谐的
+1820.  jocular           a.诙谐的
+1821.  jollity           n.高兴的；欢乐的
+1822.  jostle            v.推，挤；撞
+1823.  jovial            a.天性善良的；好的；高兴的，愉快的
+1824.  jubilation        n.庆祝
+1825.  judicious         a.公平的
+1826.  juncture          n.危机，转折点；关键点
+1827.  junta             n.小集团；政治团伙
+1828.  jurisprudence     n.法学
+1829.  justification     n.有理，正当；辩护；释罪
+1830.  kaleidoscope      n.万花筒
+1831.  kernel            n.核心的
+1832.* killjoy           n.扫兴的人；煞风景
+1833.  kindle            v.点燃，照亮，激起
+1834.  kindred           a.同族的，同类的；血缘的
+1835.  kinetic           a.运动的；运动学的
+1836.  kleptomaniac      n.偷窃狂；盗窃癖
+1837.  knave             n.流氓；无赖；恶棍
+1838.  knit              v.编织；结合
+1839.  knoll             n.小山包
+1840.  knotty            a.复杂的，错综的；精细的
+1841.  kudos             n.名望，声誉
+1842.  laborious         a.艰苦的，勤劳的
+1843.  labyrinth         n.迷宫
+1844.  laceration        n.破口
+1845.  lachrymose        a.爱哭的
+1846.  lackadaisical     a.懒洋洋的，没上进心的
+1847.  lackluster        a.暗淡的，无光的；单调的
+1848.  laconic           a.简洁的
+1849.  laggard           a.缓慢的，迟缓的
+1850.  lament            v.悲伤，恸哭
+1851.  lampoon           v.讽刺的
+1852.  languid           a.疲倦的，无精打采的
+1853.  languish          v.无力的，憔悴的
+1854.  languor           n.衰弱，萧条
+1855.  lap               v.舔食，泼溅
+1856.  larceny           n.盗窃
+1857.  larder            n.食品室；储藏室
+1858.  largess           n.赠送；赠礼
+1859.  lassitude         n.疲乏
+1860.  latent            a.潜在的
+1861.  lateral           a.侧面的，侧向的
+1862.  latitude          n.范围
+1863.  laud              v.赞美
+1864.  lavish            a.浪费的，大方的
+1865.* Iax               a.粗心
+1866.  leaven            v.发酵
+1867.  lechery           n.好色；动机不纯
+1868.  leery             a.机敏的；狡猾的
+1869.  legacy            n.遗赠
+1870.  legend            n.图例
+1871.  legerdemain       n.戏法；花招
+1872.  leniency          n.温和；宽大，仁慈
+1873.  lethal            a.致命的
+1874.  lethargic         a.昏睡的；瞌睡的
+1875.  levitate          v.升空漂浮（魔法）
+1876.  levity            n.轻佻，轻浮
+1877.  levy              v.征收
+1878.  lewd              a.淫荡的，下流的，好色的；猥亵的
+1879.  lexicographer     n.字典编纂者
+1880.  lexicon           n.字典
+1881.  liability         n.责任；缺点；债
+1882.  liaison           n.联络；连音
+1883.  libel             n.诽谤；中伤
+1884.  liberator         n.解放者
+1885.  libretto          n.歌词，剧本（舞剧，歌剧的）
+1886.  licentious        a.不道德的；下流的；放纵的
+1887.  lilliputian       a.极小的
+1888.  limber            a.柔韧的；可塑的
+1889.  limerick          n.五行打油诗
+1890.  limpid            a.清澈
+1891.  linchpin          n.关键
+1892.  lineage           n.血统
+1893.  linger            v.逗留；闲逛；流连
+1894.  linguistic        a.语言的
+1895.  liniment          n.药膏；擦油
+1896.* lionize           v.奉为名人；游览名胜
+1897.  liquidate         v.清算
+1898.  list              v.倾斜
+1899.  listless          a.倦怠的，冷漠的
+1900.  litany            n.连续虔诚的祈祷
+1901.  lithe             a.柔软的
+1902.  litigation        n.诉讼
+1903.  livid             a.铅灰色的；青一块紫一块的；暴怒的
+1904.  loath             a.不情愿的；勉强
+1905.  loathe            v.厌恶；增武
+1906.  lofty             a.高高在上的
+1907.  log               n.日志；圆木
+1908.  loiter            v.闲逛；徘徊
+1909.  loll              v.懒洋洋的坐或靠
+1910.  longevity         n.长命不老
+1911.  loom              v.织布机
+1912.  lope              v.慢跑
+1913.  lout              n.笨人，呆子
+1914.  low               v.牛叫，哞
+1915.  lucid             a.明晰的；聪明的
+1916.  lucrative         a.有利润的
+1917.  ludicrous         a.可笑的，滑稽的；不重要的
+1918.  lugubrious        a.悲哀的
+1919.  lull              n.平静，安静，暂停，短暂的平息
+1920.  lull              v.安抚，平静；换取信任，使其失去警惕
+1921.  lumber            v.笨重的往前走
+1922.  luminary          n.名气，尊严
+1923.  luminous          a.发光的，闪耀的
+1924.* lummox            n.大而笨重的（通常指人）
+1925.  lunar             a.月亮的
+1926.  lunge             v.突进，刺，冲
+1927.  lurid             a.耸人听闻的；可怕的；惨白的；血红的
+1928.  lurk              v.埋伏
+1929.  luscious          a.美味的，甜美的
+1930.  luster            n.光泽；光彩
+1931.  lustrous          a.闪耀的
+1932.  luxuriant         a.丰富的，富足的；丰富多彩；肥沃的
+1933.* machinations      n.阴谋，诡计
+1934.  madrigal          n.小曲；牧歌
+1935.  maelstrom         n.漩涡
+1936.  magnanimous       a.宽宏大量的
+1937.  magnate           n.富豪，要人；突出的人物，XX大王
+1938.  magnitude         n.巨大的，大数量级的
+1939.  maim              v.伤害
+1940.  maladroit         a.搞砸的；笨拙的
+1941.  malady            n.疾病
+1942.  malaise           n.不适，欠佳
+1943.  malapropism       n.可笑的用词错误
+1944.  malcontent        n.不满的；不满现状的
+1945.  malediction       n.诅咒
+1946.  malefactor        n.犯罪分子
+1947.  malevolent        a.坏心肠的
+1948.  malfeasance       n.渎职；不法行为
+1949.  malicious         a.恶毒的
+1950.  malign            v.毒辣的言语；诽谤
+1951.  malignant         a.恶性的，伤害的；致命的
+1952.  malingerer        n.装病的人；假病号
+1953.  malleable         a.有延展性的；可锻的
+1954.  malodorous        a.恶臭的
+1955.  mammal            n.哺乳动物
+1956.  mammoth           a.巨大的
+1957.  mandate           n.委任；命令
+1958.  mandatory         a.强制的，命令的；义不容辞的
+1959.  maniacal          a.疯狂的；无理智的
+1960.  manifest          a.明白的，显然的；证明，表现
+1961.  manifesto         n.声明
+1962.  manipulate        v,操作
+1963.  mannered          a.做作的，矫饰的
+1964.  marital           a.婚姻的
+1965.  maritime          a.海事的，海运的，海上的
+1966.  marked            a.值得注意的；报仇的目标
+1967.  marquee           n.建筑物入口处的雨棚，遮蔽物
+1968.* marred            a.受损的
+1969.  marshal           v.排序；整理
+1970.  marsupial         n.有袋哺乳动物（袋鼠、袋熊、袋狼）
+1971.  martial           a.好战的；尚武的
+1972.  martinet          n.严格纪律的人
+1973.  martyr            n.殉道者；殉教者；烈士
+1974.* masochist         n.受虐狂
+1975.  material          a.物质的；重要的
+1976.  materialism       n.唯物主义
+1977.  maternal          a.母性的
+1978.* matriarch         n.女家长；掌管全家的老太婆
+1979.  matriculate       v.入学
+1980.  maudlin           a.多愁善感
+1981.  maul              v.粗手粗脚的处理
+1982.  maverick          n.没打烙印的动物；闹独立的人；非国教徒
+1983.  mawkish           a.过分多愁善感；感情脆弱到令人作呕的
+1984.  maxim             n.至理名言；格言
+1985.  meager            a.瘦的；贫乏的，不足的
+1986.  meander           v.弯曲；蜿蜒
+1987.  meddlesome        a.爱管闲事的；好事的；好插手的
+1988.  mediate           v.调解；仲裁
+1989.  mediocre          a.普通的，一般的
+1990.  meditation        n.沉思冥想
+1991.  medley            n.混合
+1992.  meek              a.谦卑的，驯服的；温和的；顺从的
+1993.  melancholy        a.忧郁
+1994.  mellifluous       a.优美的；流畅的；蜜一样的
+1995.  membrane          n.（动植物的）膜，薄膜
+1996.  memento           n.有象征意义的物品；纪念品
+1997.  menagerie         n.动物园
+1998.  mendacious        a.撒谎成性的；撒谎的，假的
+1999.  mendicant         n.乞丐
+2000.  menial            a.仆人的；卑贱的
+2001.  mentor            n.门特；顾问；导师
+2002.  mercenary         a.唯利是图
+2003.  mercurial         a.善变的；无常的
+2004.  merger            n.合并；吞并
+2005.  mesmerize         v.施催眠术
+2006.  metallurgical     a.冶金的
+2007.  metamorphosis     n.变形
+2008.  metaphor          n.隐喻
+2009.  metaphysical      a.形而上学的
+2010.  methodical        a.方法论的；系统化的
+2011.  meticulous        a.小心翼翼的
+2012.  metropolis        n.大都会
+2013.  mettle            n.勇气；精神
+2014.  miasma            n.沼气；瘴气，毒气；天然气
+2015.  microcosm         n.微观世界
+2016.  migrant           a.移居的；候鸟的
+2017.  migratory         a.迁徙的；流浪的
+2018.  milieu            n.环境；（社会）背景
+2019.  militant          a.好战的
+2020.  mimicry           n.模仿
+2021.  mincing           a.装腔作势的
+2022.  minuscule         a.极小的
+2023.  minute            a.极小的
+2024.* minutiae          n.细节；细微之处
+2025.  mirage            n.曲解；海市蜃楼；虚影
+2026.  mire              v.陷入（泥塘）；麻烦缠身
+2027.  mirth             n.欢笑
+2028.  misanthrope       n.厌恶人类的人；憎人者
+2029.  misapprehension   n.错误；误解
+2030.  miscellany        n.杂记
+2031.  mischance         n.霉运；不幸
+2032.  misconception     n.误解
+2033.  misconstrue       v.曲解
+2034.  misdemeanor       n.轻罪
+2035.  miserly           a.吝啬的；贪婪的；坏的
+2036.  misgivings        n.担忧，疑虑
+2037.  mishap            n.意外，灾难
+2038.  misnomer          n.错误的名字；写错名字；用词不当
+2039.  misrepresent      v.误传；有意制造误解
+2040.  missile           n.投掷物
+2041.* missive           n.信件
+2042.  mite              n.小东西；小硬币
+2043.  mitigate          v.减轻；减缓；中和
+2044.  mnemonic          a.记忆的
+2045.  mobile            a.移动的
+2046.  mock              v.嘲弄，嘲笑
+2047.  mode              n.时尚；方式；模式
+2048.  modicum           n.少量
+2049.  modulate          v.控制；调制到标准；调制（信号）
+2050.  molecule          n.分子
+2051.  mollify           v.平息；安抚
+2052.  molt              v.换毛；褪毛
+2053.  molten            a.融化了的
+2054.  momentous         a.非常重要的
+2055.  momentum          n.动量；动力
+2056.  monarchy          n.君主制；君主整体
+2057.  monastic          a.僧侣的；遁入空门的，不问世事
+2058.  monetary          a.金融的
+2059.* monochromatic     a.单色的
+2060.  monolithic        a.单片的，单块的；一体不动摇的
+2061.  monosyllabic      a.单音节的
+2062.  monotony          n.千篇一律的
+2063.  montage           n.蒙太奇
+2064.  monumental        a.雄伟的；厚重的；结实的；纪念的
+2065.  moodiness         n.闷闷不乐
+2066.  moratorium        n.延期偿还
+2067.  morbid            a.病态的，恐怖的；喜怒无常的；不成熟的
+2068.  mores             n.风俗习惯
+2069.  moribund          a.垂死的
+2070.  morose            a.郁闷的；乖僻的
+2071.  mortician         n.殡仪业者
+2072.  mortify           v.侮辱；体罚
+2073.  mosaic            n.马赛克
+2074.  mote              n.小半点
+2075.  motif             n.主旨，本意；动机
+2076.  motley            a.多彩的，杂色的；混合的
+2077.  mottled           a.有斑点的；弄脏的
+2078.  muddle            v.迷惑的；搞乱了的，混淆了的
+2079.  muggy             a.又热又潮的（天气）
+2080.* multifaceted      a.多面的
+2081.  multifarious      a.多样的；各式各样的
+2082.  multiform         a.多态的
+2083.  multilingual      a.多语种的
+2084.  multiplicity      n.多样性
+2085.  mundane           a.世俗的；日常的
+2086.  munificent        a.宽宏大量的；慷慨大方的
+2087.  mural             n.壁画
+2088.  murky             a.暗的，模糊的，暧昧的
+2089.  muse              v.沉思
+2090.  mushroom          v.膨胀，迅速生长
+2091.  musky             a.麝香味儿的
+2092.  muster            v.收集；集合
+2093.  musty             a.陈腐的，变质的；时间长损失品质的
+2094.  mutability        n.变化能力
+2095.* muted             a.静默的；静音的
+2096.  mutinous          a.反抗的；暴动的
+2097.  myopic            a.鼠目寸光；缺乏远见
+2098.  myriad            n.无数，非常多
+2099.  mystify           v.迷惑，蛊惑
+2100.  nadir             n.谷底，最低点；天底
+2101.  naivete           n.天真烂漫的，简单的
+2102.* narcissist        n.自我陶醉的人；逞能的人
+2103.  narrative         a.解说的
+2104.  nascent           a.初生的
+2105.  natty             a.穿着整齐干净的
+2106.  nauseate          v.令人作呕的
+2107.  nautical          a.航海的
+2108.  navigable         a.可以通航的
+2109.  nebulous          a.暧昧的，混浊不清的
+2110.  necromancy        n.巫术，妖术，招魂术
+2111.  nefarious         a.十恶不舎?
+2112.  negate            v.拒绝，否定，取消
+2113.  negligence        n.疏忽，没能尽力的
+2114.  negligible        a.可忽略不计的
+2115.  nemesis           n.复仇的人；寻衅者
+2116.* neologism         n.新生词
+2117.  neophyte          n.新入教者；新信徒
+2118.  nepotism          n.偏袒的人（亲戚）
+2119.  nettle            v.烦恼；激怒；荨麻
+2120.  neutral           a.中型的；自然的；中庸的，公允的
+2121.  nicety            n.准确，精密
+2122.  nihilist          n.虚无主义者
+2123.  nip               v.夹，捏；剪断；阻止
+2124.  nirvana           n.涅磐
+2125.  nocturnal         a.夜的
+2126.  noisome           a.有害的，有毒的；恶臭的
+2127.  nomadic           a.游牧的
+2128.  nomenclature      n.命名法；术语学
+2129.  nominal           a.有名无实的，名存实亡的；名义上的
+2130.  nonchalance       n.冷淡
+2131.  noncommittal      a.不明朗的，不表态的；中庸的，未决的
+2132.  nondescript       a.普通的
+2133.  nonentity         n.不存在
+2134.  nonplus           v.使迷惑；使为难；混淆
+2135.  nostalgia         n.想家；乡愁
+2136.  notable           a.显著的；值得注意的
+2137.  notoriety         n.臭名昭著的
+2138.  novelty           n.新奇
+2139.  novice            n.新手
+2140.  noxious           a.有害的
+2141.  nuance            n.细微差别
+2142.  nullify           v.使无效
+2143.  numismatist       n.硬币收藏家
+2144.  nuptial           a.婚姻的
+2145.  nurture           v.养育；教育
+2146.  nutrient          n.营养品
+2147.  oaf               n.愚蠢的人
+2148.  obdurate          a.执拗的；顽固的
+2149.  obese             a.肥胖的
+2150.  obfuscate         v.迷惑，困惑；增加不必要的复杂性
+2151.  obituary          a.讣告
+2152.  objective         a.不为情所动的；公平的
+2153.  objective         n.目标
+2154.  obligatory        a.必须的
+2155.  oblique           a.间接的；倾斜的；无诚意的
+2156.  obliterate        v.彻底摧毁
+2157.  oblivion          n.遗忘；舎?
+2158.  oblivious         a.遗忘的；出神的
+2159.  obnoxious         a.讨厌的；冒犯的
+2160.  obscure           a.模糊的，不明了的，暗淡的
+2161.  obscure           v.使模糊；使暗淡
+2162.  obsequious        a.谄媚的；拍马屁的；奴性的
+2163.  obsessive         a.强迫性的，入迷的；出神的
+2164.  obsolete          a.过时的；无用的
+2165.  obstetrician      n.妇产科医师
+2166.  obstinate         a.坚定的，倔强的
+2167.  obstreperous      a.喧闹的，喧嚣的；任性的
+2168.  obtrude           v.插手，强入，冲出
+2169.  obtuse            a.钝的，迟钝的；愚蠢的
+2170.  obviate           v.消除；排除；避免
+2171.  odious            a.可恨的；可耻的
+2172.  odium             n.讨厌；憎恶
+2173.  odorous           a.有气味的
+2174.  odyssey           n.长期的冒险旅行
+2175.  offensive         a.攻击的；冒犯的
+2176.  offhand           a.即时的；随意的
+2177.  officious         a.多管闲事的
+2178.  ogle              v.抛媚眼；送秋波
+2179.  olfactory         a.嗅觉的
+2180.  oligarchy         n.寡头政治
+2181.  ominous           a.有威胁的；恶兆的
+2182.  omnipotent        a.无所不能的；全能的
+2183.  omnipresent       a.无所不在的
+2184.  omniscient        a.无所不知的
+2185.  omnivorous        a.无所不吃的；杂食的
+2186.  onerous           a.范忠德
+2187.  onset             n.开始，发作，肇端；攻击
+2188.  onus              n.负担；责任
+2189.  opalescent        a.乳白的
+2190.  opaque            a.暗的；不透明的
+2191.  opiate            n.鸦片剂；安眠的，止痛的
+2192.  opportune         a.世纪恰巧的；刚好的
+2193.  opportunist       n.机会主义者
+2194.  optician          n.眼镜商
+2195.  optimist          n.乐观者
+2196.  optimum           a.最优的
+2197.  optional          a.可选的
+2198.  opulence          n.奢华；巨富；富裕，富足
+2199.  opus              n.作品
+2200.  oracular          a.神一样的；谜一样的；超自然的
+2201.  orator            n.演讲者
+2202.  ordain            v.指定；规定；任命；命令
+2203.  ordeal            n.严酷的考验；折磨
+2204.  ordinance         n.法令；政令
+2205.  ordination        n.圣职授任；委任
+2206.  orgy              n.放荡，旷野；纵酒狂欢
+2207.  orient            v.确定方向；校准
+2208.  orientation       n.定位（在社会上）
+2209.  ornate            a.华丽的；过分装饰的
+2210.  ornithologist     n.鸟类学家
+2211.  ornithology       n.鸟类学
+2212.  orthodox          a.传统的；保守的
+2213.  oscillate         v.振荡
+2214.  ossify            v.硬化；骨化；化石化
+2215.  ostensible        a.显然的；虚假的
+2216.  ostentatious      a.卖弄的；企图惹人注意的；哗众取宠的
+2217.  ostracize         v.放逐
+2218.  oust              v.剥夺；驱逐
+2219.  outlandish        a.奇异的；偏僻的；前卫的
+2220.  outmoded          a.过时的
+2221.  outskirts         n.边界；郊区；外围
+2222.  outspoken         a.坦率直言的
+2223.  outstrip          v.超过
+2224.  outwit            v.欺骗；瞒骗
+2225.  ovation           n.热情洋溢的喝彩
+2226.  overbearing       a.傲慢专横的
+2227.  overt             a.明显的；公然的
+2228.  overwrought       a.歇斯底里的
+2229.  pachyderm         n.皮厚的动物（如大象）
+2230.  pacifist          n.和平主义者
+2231.  pacify            v.安抚；平静
+2232.  pact              n.和约；条约
+2233.  paean             n.欢乐歌；赞美歌
+2234.  painstaking       a.辛勤的
+2235.  palatable         a.可接受的；美味的
+2236.  paleontology      n.古生物学
+2237.  palette           n.调色板
+2238.  pall              v.厌烦，腻味
+2239.  palliate          v.减轻
+2240.  pallid            a.苍白的，惨淡的
+2241.  palpable          a.易于领会的；明显的
+2242.  palpitate         v.拍动；跳动；搏动
+2243.  paltry            a.不显著的；微小的
+2244.  pan               v.剧烈批评；猛烈抨击
+2245.  panacea           n.包治百病的药，灵丹妙药
+2246.  panache           n.华丽
+2247.  pandemic          a.广泛传播的，流行的
+2248.  pandemonium       n.喧嚣；混乱
+2249.  pander            v.低级趣味的；拉皮条
+2250.  panegyric         n.推崇之至
+2251.  panoramic         a.全景的
+2252.  pantomime         n.演哑剧
+2253.  papyrus           n.纸草；草纸（古代的）
+2254.  parable           n.寓言
+2255.  paradigm          n.典范；模式
+2256.  paradox           n.悖论；佯谬
+2257.  paragon           n.模范
+2258.  parallelism       n.平行状态；相似的
+2259.  paramount         a.极其重要的
+2260.  paranoia          n.妄想狂；偏执狂
+2261.  paraphernalia     n.琐碎的东西；零碎的随身物品
+2262.  paraphrase        v.解释；批注；注释
+2263.  parasite          n.寄生；寄生体
+2264.  parched           a.干旱的；干渴的
+2265.  pariah            n.贱民；被社会遗弃的人
+2266.  parity            n.相等；势均力敌；奇偶
+2267.  parochial         a.狭小的，地方的
+2268.  parody            n.拙劣的模仿
+2269.  paroxysm          n.突然一阵的，突发的（痛苦，笑，愤怒）
+2270.  parry             v.躲避
+2271.  parsimony         n.过度俭省；吝啬
+2272.  partial           a.不完善的；偏爱的
+2273.  partiality        n.倾向；偏见
+2274.  partisan          a.一边倒的
+2275.  partition         v.分裂开来
+2276.  passive           a.被动的
+2277.  passport          n.护照
+2278.  pastiche          n.摹写；模仿
+2279.  pastoral          a.田园的；乡下的
+2280.  patent            a.显而易见的；公开查阅的
+2281.  pathetic          a.可怜的，触动人心的
+2282.  pathological      a.病理学
+2283.  pathos            n.痛苦，悲怆，哀婉
+2284.  patina            n.铜绿；光泽；古色
+2285.  patriarch         n.长者，家长；酋长，族长
+2286.  patrician         a.贵族的
+2287.  patronize         v.资助；支持
+2288.  paucity           n.少量；缺乏
+2289.  pauper            n.叫花子；非常可怜的人
+2290.  peccadillo        n.轻罪，轻微冒犯
+2291.  pecuniary         a.钱的，货币的
+2292.  pedagogy          n.教育学
+2293.  pedant            n.学究式人物
+2294.  pedantic          a.书生气的
+2295.  pedestrian        a.没有想象力的，普通的
+2296.  pediatrician      n.儿科专家
+2297.  peerless          a.不可比较的，不相衡的，无可匹敌的
+2298.  pejorative        a.轻蔑；蔑视的
+2299.  pellucid          a.透明；清澈；明白的
+2300.  penchant          n.倾向；趣味
+2301.  pendant           n.装饰品；首饰
+2302.  penitent          a.悔过的
+2303.  pensive           a.沉思默想的；忧心忡忡的
+2304.  penury            n.一贫如洗；穷困潦倒
+2305.  perceptive        a.有洞察力的，警觉的；智慧的
+2306.  percussion        a.打击
+2307.  perdition         n.毁灭
+2308.  peregrination     n.旅程；旅行
+2309.  peremptory        a.专制的；强硬的，专横的
+2310.  perennial         n.终年的；永久的
+2311.  perfidious        a.背信弃义的；不忠的
+2312.  perforate         v.打孔
+2313.  perfunctory       a.肤浅的，不投入的；漠不关心的
+2314.  perimeter         n.周长
+2315.  peripheral        a.外围的
+2316.  periphery         n.（圆形的）边缘
+2317.  perjury           n.伪誓；伪证
+2318.  permeable         a.可渗透的，可学习的
+2319.  permeate          v.传播；流传
+2320.  pernicious        a.及具毁灭性的
+2321.  perpetrate        v.犯
+2322.  perpetual         a.永久的
+2323.  perpetuate        v.保护免于灭绝
+2324.  perquisite        n.津贴，补贴；奖金
+2325.  persona           n.角色
+2326.  personable        a.有吸引力的
+2327.  perspicacious     a.洞察一切的，渗透的；机敏的
+2328.  pert              a.爱管闲事的，无理的
+2329.  pertinacious      a.拒不屈服；反抗
+2330.  pertinent         a.说到点子上的；中肯的；有关的
+2331.  perturb           v.感到不安
+2332.  peruse            v.细读
+2333.  pervasive         a.深入人心的；普遍的
+2334.  perverse          a.不正当的，邪恶的，做作的 ；硬脖子的
+2335.  pessimism         n.悲观主义者
+2336.  petrify           v.石化
+2337.  petty             a.微小的，不重要的
+2338.  petulant          a.脾气坏的
+2339.  phenomena         n.现象
+2340.  philanderer       n.调情；轻佻的人
+2341.  philanthropist    n.慈善家
+2342.  philistine        n.俗气的人，无教养的人；心胸狭窄的人
+2343.  philology         n.语言学
+2344.  phlegmatic        a.冷静的；平静的；不易被激起的
+2345.  phobia            n.恐怖
+2346.  phoenix           n.凤凰（象征不死和重生、涅磐）
+2347.  phylum            n.门；语群
+2348.  physiological     a.生理学的
+2349.  picaresque        a.以歹徒为题材的文学作品的
+2350.  piebald           a.花斑的；斑驳的
+2351.  piecemeal         ad.一次一个的，逐个的；渐渐的；碎的
+2352.  pied              a.杂色的；斑驳的
+2353.  piety             n.虔诚；孝行
+2354.  pigment           n.色素
+2355.  pillage           v.掠夺
+2356.  pine              v.消瘦，憔悴；渴望；松树
+2357.  pinnacle          n.顶尖；顶点
+2358.  pious             a.尽职的；虔诚的
+2359.  piquant           a.开胃的；辛辣的；刺激的；淘气顽皮的
+2360.  pique             n.愤怒；不满
+2361.  pique             v.激起，煽动；激怒
+2362.  pitfall           n.缺陷
+2363.  pithy             a.精炼的；抓住灵魂的
+2364.  pittance          n.微薄的薪水
+2365.  pivotal           a.关键的
+2366.  placate           v.安抚
+2367.  placebo           n.安慰剂
+2368.  placid            a.平静的
+2369.  plagiarism        n.剽窃
+2370.  plagiarize        v.剽窃
+2371.  plaintive         a.哀伤的
+2372.  plasticity        n.塑性
+2373.  platitude         n.陈词滥调
+2374.  plaudit           n.喝彩
+2375.  plausible         a.似是而非的
+2376.  plenitude         n.充分，富足
+2377.  plethora          n.过剩；过多
+2378.  pliable           a.圆滑的；柔韧的；易弯曲的
+2379.  pliant            a.顺从的
+2380.  plight            n.情况，状况；困境
+2381.  plumb             a.垂直；铅锤；用铅锤量
+2382.  plumage           n.鸟类的羽毛
+2383.  plummet           v.垂直落下
+2384.  plutocracy        n.富豪统治
+2385.* podiatrist        n.足病医生
+2386.  podium            n.指挥台；检阅台
+2387.  poignancy         n.强烈的；感人的；尖锐的
+2388.  polarize          v.极化；分化；两极分化
+2389.  polemical         a.辩论的，好辩的
+2390.  politic           a.精明的；明智的；诡计多端的；谨慎的
+2391.* polygamist        n.多配偶
+2392.  polyglot          a.多语言
+2393.  pomposity         n.夸大，华丽；浮夸；自大
+2394.  ponderous         a.沉重的；笨重的；呆板的；冗长的
+2395.  pontifical        a.教皇的；主教的
+2396.  pore              v.沉思；考察；深思熟虑；小孔，细口
+2397.  porous            a.筛子似的
+2398.  portend           v.预示
+2399.  portent           n.征兆
+2400.  portly            a.健壮的；肥胖的；魁梧的
+2401.  poseur            n.装模作样的人；邯郸学步
+2402.  posterity         n.子孙；后裔
+2403.  posthumous        a.身后的；遗腹的（孩子生于父亲死后）
+2404.  postulate         n.前提；基于的假定
+2405.  potable           a.可饮用的
+2406.  potent            a.有效的
+2407.  potentate         n.当权者
+2408.  potential         a.潜在的
+2409.  potion            n.剂量
+2410.  practicable       a.可行的
+2411.  practical         a.有用的；经验的；实践证明的
+2412.  practitioner      n.从业者
+2413.  pragmatic         a.实际的；注重实效的
+2414.  pragmatist        n.爱管闲事的人；实用主义者
+2415.  prank             n.胡闹；打扮
+2416.  prate             v.空谈
+2417.  prattle           v.闲聊；胡说；废话；唠叨
+2418.  preamble          n.导言；介绍词
+2419.  precarious        a.不确定的；冒风险
+2420.  precedent         n.先例
+2421.  precept           n.规则
+2422.  precinct          n.行政区
+2423.  precipice         n.悬崖；危险的位
+2424.  precipitate       a.匆忙的；突然的；未成熟的；草率的
+2425.  precipitate       v.下降；下坠
+2426.  precipitous       a.陡峭的；急躁的
+2427.  precis            n.大纲；摘要
+2428.  precise           a.精确的
+2429.  preclude          v.消灭；杜绝
+2430.  precocious        a.早熟的
+2431.  precursor         n.领跑者，先驱
+2432.  predator          n.捕食者
+2433.  predecessor       n.前任；前辈
+2434.  predetermine      v.预定；预先确定
+2435.  predicament       n.困境；危险的境地；两难
+2436.  predilection      n.偏爱；偏好
+2437.  predispose        v.预先安排，使其偏向于
+2438.  preeminent        a.出色的；出类拔萃的
+2439.  preempt           v.排挤，代替；阻止；抢占；先发制人
+2440.  preen             v.把自己打扮漂亮；鸟类用嘴梳理羽毛
+2441.  prehensile        a.可以得到的；可以抓住的
+2442.  prelate           n.高级教士
+2443.  prelude           n.序；先驱；先导
+2444.  premeditate       v.预谋，预先考虑
+2445.  premise           n.假定，假设；前提
+2446.  premonition       n.前兆
+2447.  preposterous      a.荒唐的
+2448.  prerogative       n.特权
+2449.  presage           v.预示
+2450.  prescience        n.预示能力
+2451.  presentiment      n.预感
+2452.  prestige          n.声望；威信
+2453.  presumptuous      a.自大；轻狂；专横
+2454.  pretentious       a.自命不凡；华而不实；自大
+2455.  preternatural     a.超自然的
+2456.  pretext           n.借口；托辞
+2457.  prevail           v.导致，促使；击败；盛行
+2458.  prevalent         a.普遍的；流行的
+2459.  prevaricate       v.撒谎；支吾，搪塞；糊弄
+2460.  prey              n.猎物；受害人，牺牲品
+2461.  prim              a.整洁的；精准的，精确的
+2462.  primordial        a.原始的；与时间同在的
+2463.* primp             v.打扮
+2464.  pristine          a.史前的；质朴的
+2465.  privation         n.困难，困苦；短缺，缺少
+2466.  probe             v.探测
+2467.  problematic       a.忧郁的；忧心忡忡的；心存疑虑的
+2468.  proclivity        n.倾向；自然倾向
+2469.  procrastinate     v.推迟；延期
+2470.  prod              v.刺；刺激；激励
+2471.  prodigal          a.浪费的
+2472.  prodigious        a.巨大的
+2473.  prodigy           n.奇才；天才
+2474.  profane           v.亵渎
+2475.  profligate        a.放荡的；放肆的；不检点的
+2476.  profound          a.深刻的
+2477.  profusion         n.过量；过剩
+2478.  progenitor        n.祖先
+2479.  progeny           n.后裔
+2480.  prognosis         n.预言；疾病警告
+2481.  projectile        n.发舐；导弹
+2482.  proletarian       n.无产阶级的；蓝领的
+2483.  proliferation     n.迅速增长，倍增；扩散
+2484.  prolific          a.多产的；丰富的
+2485.  prolixity         n.冗长的；啰嗦?
+2486.  prologue          n.序（诗歌，歌剧的）
+2487.  prolong           v.拖延
+2488.  prominent         a.显著的；突出的；卓越的
+2489.  promiscuous       a.随意混合的；打乱的；随便的
+2490.  promontory        n.岬；海角
+2491.  promote           v.提升；促进
+2492.  prompt            v.提示；鼓动；迅速及时的
+2493.  promulgate        v.发布；公布
+2494.  prone             a.倾向于
+2495.  propagate         v.迅速增长，传播，扩散
+2496.* propellants       n.推进剂
+2497.  propensity        n.自然倾向
+2498.  prophetic         a.预言的
+2499.  propinquity       n.亲近；血缘
+2500.  propitiate        v.劝解；平静；安抚
+2501.  propitious        a.吉利的；有利的
+2502.  proponent         n.支持者；建议者
+2503.  propound          v.提出
+2504.  propriety         n.适当
+2505.  propulsive        a.推进的；有推进力的
+2506.  prosaic           a.事实的；平淡的；缺乏想象力的
+2507.  proscribe         v.禁止
+2508.  proselytize       v.劝其改宗；改宗
+2509.  prosperity        n.繁荣；好运
+2510.  prostrate         v.弄倒；降伏
+2511.  protean           a.变化多端的
+2512.  protege           n.被保护人
+2513.  protocol          n.协议
+2514.  prototype         n.原型
+2515.  protract          v.延长
+2516.  protrude          v.突出
+2517.  protuberance      n.隆起；突出；瘤
+2518.  provident         a.有远见的
+2519.  provincial        a.省级的；视野不宽的；简单的
+2520.  provisional       a.临时的
+2521.  provocative       a.煽动的；刺激的；激怒的
+2522.  provoke           v.激怒；惹；煽动；挑起
+2523.  prowess           n.非常勇猛
+2524.  proximity         n.接近；亲近
+2525.  proxy             n.代理
+2526.  prude             n.规矩的人；正经人；故作正经的人
+2527.  prudent           a.谨慎的
+2528.  prune             v.切掉；修剪
+2529.  prurient          a.好色的；渴望的
+2530.  pseudonym         n.假名；笔名
+2531.  psyche            n.灵魂
+2532.  pterodactyl       n.翼龙
+2533.  puerile           a.幼稚的，孩子气的
+2534.  pugilist          n.拳击家
+2535.  pugnacity         n.好斗的
+2536.  pulchritude       n.美丽；标致
+2537.  pulverize         v.磨碎；粉碎
+2538.  pummel            v.用拳头打
+2539.  punctilious       a.谨小慎微的；一丝不苟的
+2540.  pundit            n.博学者；梵文学家
+2541.  pungent           a.刺激的；辛辣的；尖锐的
+2542.  punitive          a.惩罚的
+2543.  puny              a.不显著的；不明显的；细微的
+2544.  purchase          n.赢得；换得；努力争取得；购买
+2545.  purge             v.净化；清除；拉肚子
+2546.  purported         a.传说的；谣传的
+2547.  purse             v.折叠；褶皱；钱包；手提包（女式）
+2548.  purveyor          n.承办商
+2549.  pusillanimous     a.懦弱的；优柔寡断的
+2550.  putrid            a.恶臭的；腐烂的
+2551.  pyromaniac        n.纵火狂
+2552.  quack             n.骗子；吹嘘的人
+2553.  quadruped         n.四足动物
+2554.  quaff             v.一饮而尽
+2555.  quagmire          n.沼泽；湿地
+2556.  quail             v.懦弱；胆怯
+2557.  quaint            a.离奇古怪的；做的精巧的；过时的
+2558.  qualified         a.有资格的；有限制的；被限制的
+2559.  qualms            n.担心，害怕；担惊受怕；愧对良心
+2560.  quandary          n.两难的困境
+2561.  quarantine        n.隔离
+2562.  quarry            n.猎物；受害者
+2563.  quarry            v.挖掘出，寻找出
+2564.  quay              n.码头
+2565.  queasy            a.神经质的，洁癖的；易呕吐的
+2566.  quell             v.扑灭；镇压；平息
+2567.  quench            v.弄湿；扑灭；熄灭；淬火
+2568.  querulous         a.鸣不平的；易发牢骚的
+2569.  query             n.问询；质问
+2570.  quibble           n.遁词；狡辩；支吾；吹毛求疵
+2571.  quiescent         a.睡眠的；休息的；暂停活动的
+2572.  quietude          n.平静；宁静
+2573.  quintessence      n.精粹；精华
+2574.  quip              n.嘲弄；讽刺
+2575.  quirk             n.反复无常；怪僻
+2576.  quiver            v.振动的；颤抖的；敏捷的
+2577.  quiver            n.舐箭的
+2578.  quixotic          a.空想的；狂想的
+2579.  quizzical         a.古怪的；嘲弄的；令人好奇的
+2580.  quorum            n.法定人数
+2581.  rabid             a.狂暴的；激烈的
+2582.  raconteur         n.善谈的人；满肚子故事的人
+2583.  rail              v.责骂；斥责；咆哮
+2584.  raiment           n.衣服
+2585.  rally             v.复原，恢复；召集，集合
+2586.  ramble            v.游荡；漫无目的游荡
+2587.  ramification      n.分支；分叉
+2588.  ramify            v.分支；分开
+2589.  ramp              n.斜面；斜坡
+2590.  rampant           a.猖獗的；滋生的；猛烈的
+2591.  ramshackle        a.摇摆的；摇摇欲坠的
+2592.  rancid            a.油脂一样腐臭的
+2593.  rancor            n.苦难
+2594.  random            a.随机的
+2595.  rankle            v.激怒；溃烂；化脓
+2596.  rant              v.咆哮；激昂的演说；斥责
+2597.  rapacious         a.极度贪婪的；捕食的；掠夺的
+2598.  rapport           n.情感的亲近；和谐
+2599.  rapt              a.迷住的；全神贯注的
+2600.  rarefied          a.稀释（气体）
+2601.* raspy             a.刺耳的；焦躁的
+2602.  ratify            v.批准，认可
+2603.  ratiocination     n.推理；推论
+2604.  rationale         n.基础科学；基本原理
+2605.  rationalize       v.合理化
+2606.  raucous           a.沙哑的
+2607.  rave              n.咆哮
+2608.  ravel             v.使混乱；解开混乱，解决混乱
+2609.  ravenous          a.饥饿的
+2610.  raze              v.彻底摧毁
+2611.  reactionary       a.反作用的
+2612.  realm             n.领域
+2613.  reaper            n.收割者；收割机
+2614.  rebuff            v.回绝
+2615.  rebuke            v.严厉批评；猛烈的训斥
+2616.  rebuttal          n.驳斥；举反证
+2617.  recalcitrant      a.反抗的；顽抗的
+2618.  recant            v.放弃；宣布放弃
+2619.  recapitulate      v.概括；总结
+2620.  recast            v.重建
+2621.  receptive         a.善于接受的
+2622.  recession         n.撤退
+2623.  recidivism        n.累犯；惯犯
+2624.  recipient         n.接受的东西；容器
+2625.  reciprocal        a.互相的；互动的；互惠的
+2626.  reciprocate       v.互给；呼唤；酬答
+2627.  recluse           n.隐遁者；寂寞者
+2628.  reconcile         v.抛弃前嫌；不打不相识；结为好友
+2629.  reconnaissance    n.侦查
+2630.  recount           v.解说，告诉；重新数
+2631.  recourse          n.求助；求援
+2632.  recrimination     n.反责；反击
+2633.  rectify           v.纠正
+2634.  rectitude         n.垂直；正直；公正
+2635.  recumbent         a.靠着的；斜躺的；不动的；休息的
+2636.  recuperate        v.恢复
+2637.  recurrent         a.一遍又一遍发生的；循环发生的
+2638.  redolent          a.有味道的；有香味儿的
+2639.  redoubtable       a.可怕的
+2640.  redress           n.补偿；赔偿
+2641.  redundant         a.冗余的；多余的
+2642.  reek              v.散发（气味）
+2643.  refraction        n.（光线的）折舐，弯曲
+2644.  refractory        a.按不住的；不服气的；倔强的
+2645.  refrain           v.抵制；抵抗；远离，节制
+2646.  refurbish         v.刷新；修复；擦亮
+2647.  refute            v.反驳
+2648.  regal             a.皇家的
+2649.  regale            v.取悦，娱乐，享受
+2650.  regime            n.政体
+2651.  regimen           n.舏生?
+2652.  rehabilitate      v.恢复；复原
+2653.  reimburse         v.偿还
+2654.  reiterate         v.重申；重复
+2655.  rejoinder         n.反驳；回应
+2656.  rejuvenate        v.返老还童；青春重回
+2657.  relegate          v.指派；下放；贬
+2658.  relent            v.变宽厚；变温和
+2659.  relevant          a.有关的；相对的
+2660.  relic             n.纪念物；废墟，遗留
+2661.  relinquish        v.不情愿的屈服，放弃（某物）
+2662.  relish            v.品味；享受
+2663.  remediable        a.可挽回的
+2664.  remedial          a.治疗的，补救的
+2665.  reminiscence      n.怀旧；回想
+2666.  remiss            a.玩忽职守的，粗心大意的
+2667.  remission         n.减轻，缓解；宽恕
+2668.  remnant           n.残留物
+2669.  remonstrance      n.抗议
+2670.  remorse           n.懊悔，自责
+2671.  remunerative      a.有利益的；有报酬的
+2672.  rend              v.分开；撕开
+2673.  render            v.呈递；开账单；给予；还以；放弃；描绘
+2674.  rendition         n.表演，诠释；翻译
+2675.  renegade          n.变节者
+2676.* renege            v.食言；反悔；否认；翻供
+2677.  renounce          v.放弃；断绝关系
+2678.  renovate          v.革新；刷新；修复
+2679.  renown            n.名望
+2680.  rent              n.撕；裂口
+2681.  reparable         a.可修复的
+2682.  reparation        n.修订；弥补；补偿
+2683.  repast            n.餐；宴会
+2684.  repeal            v.废除；撤除
+2685.  repel             v.撤退；退却
+2686.  repellent         a.排斥的
+2687.  repercussion      n.反弹；弹回
+2688.  repertoire        n.节目表；保留节目
+2689.  replenish         v.补充
+2690.  replete           a.充满的；充足的
+2691.  replica           n.复制
+2692.  replicate         v.复制
+2693.  repository        n.仓库；知识库；智囊团
+2694.  reprehensible     a.应该谴责的
+2695.  repress           v.压迫；压制；压
+2696.  reprieve          n.暂缓；缓刑
+2697.  reprimand         v.谴责
+2698.  reprisal          n.报复
+2699.* reprise           n.年金；重奏；重复的行动
+2700.  reproach          v.表示失望；责备
+2701.  reprobate         n.有重罪的人；道德败坏的人，无耻的人
+2702.  reprove           v.责备
+2703.  repudiate         v.批判
+2704.  repugnant         a.不一致的；令人讨厌的
+2705.  repulsion         n.排斥；反驳
+2706.  reputable         a.著名的；令人尊敬的
+2707.  reputed           a.名誉好的；有名气的；名誉的
+2708.  requiem           n.安灵弥撒；安灵歌，挽歌
+2709.  requisite         n.必须品；必要的
+2710.  requite           v.报答；酬谢
+2711.  rescind           v.取消
+2712.  resentment        n.怨恨；愤恨
+2713.  reserve           n.自我控制；疏远
+2714.  residue           n.残留物；余额
+2715.  resigned          a.认命，顺从；听天由命
+2716.  resilient         a.弹性的
+2717.  resolution        n.坚定；决心；决定
+2718.  resolve           n.决心；解决
+2719.  resolve           v.决定；安排
+2720.  resonant          a.共鸣的
+2721.  respiration       n.呼吸；呼吸作用；呼气
+2722.  respite           n.暂缓
+2723.  resplendent       a.辉煌的；光辉的
+2724.  responsiveness    n.响应的
+2725.  restitution       n.归还；补偿
+2726.  restive           a.焦躁不安的；难以压抑的
+2727.  restraint         n.抑制；控制
+2728.  resumption        n.恢复；重新开始
+2729.* resurge           v.复活
+2730.  retain            v.保持；使用
+2731.  retaliation       n.报仇
+2732.  retentive         a.保持的；记性好的
+2733.  reticence         n.不动声色的；深藏不露的；沉默寡言的
+2734.  retinue           n.随行人员；扈从
+2735.  retiring          a.退休的；谦虚的，害羞的
+2736.  retort            n.反驳；曲颈甑
+2737.  retract           v.撤回，撤退
+2738.  retrench          v.裁减，削减；紧缩，节约
+2739.  retribution       n.复仇；补偿；惩罚
+2740.  retrieve          v.重新得到；找回
+2741.  retroactive       a.反动的；（法律）追溯的
+2742.  retrograde        v.倒退的
+2743.  retrospective     a.回顾的
+2744.  revelry           n.狂欢
+2745.  reverent          a.尊敬的；可敬的
+2746.  reverie           n.冥想；发呆；白日梦
+2747.  revert            v.回复；故态复萌
+2748.  revile            v.辱骂，谩骂，诽谤
+2749.  revoke            v.撤回；取消
+2750.  revulsion         n.剧变（情感的）；抽回；收手
+2751.* rhapsodize        v.狂热地描述；写狂想文，作狂想曲
+2752.  rhetoric          n.说话的学问；花言巧语
+2753.  rhetorical        a.修辞色彩的；花言巧语的
+2754.  ribald            a.下流的；放荡的；亵渎的
+2755.  riddle            v.打排孔；充斥；通过粗眼筛子过滤；谜语
+2756.  rider             n.附文；扶手
+2757.  rife              a.普遍的
+2758.  rift              n.裂缝；破口
+2759.  rig               v.配备；装备
+2760.  rigid             a.刚硬的；不屈的
+2761.  rigor             n.严格，苛刻；精确
+2762.  rigorous          a.严峻的；严格的；严厉的
+2763.  rile              v.激怒
+2764.  riveting          a.迷人的
+2765.  rivulet           n.小溪
+2766.  robust            a.健壮的
+2767.  roil              v.搅动（使水变浑）;激怒
+2768.  roster            n.列表
+2769.  rostrum           n.演讲台；讲道坛
+2770.  rote              n.生搬硬套；死记硬背
+2771.  rotundity         n.圆形，球状；洪亮的演讲
+2772.  rousing           a.活跃的；煽动的
+2773.  rout              v.吓跑；赶出；击退
+2774.  rubble            n.碎片
+2775.  ruddy             a.红的；红润的，白里透红的；健康的
+2776.  rudimentary       a.原始的；最初的；原来的
+2777.  rue               v.懊悔；后悔；感伤
+2778.  ruffian           n.流氓；恶棍；痞子
+2779.  ruminate          v.反复咀嚼；消化；深思；反刍
+2780.  rummage           v.到处翻寻
+2781.  ruse              n.技巧；策略，计谋
+2782.  rustic            a.乡村的；笨拙的，不舒服的
+2783.  ruthless          a.无情的
+2784.* saboteur          n.破坏分子；怠工者
+2785.  saccharine        a.糖精的；代糖的；极甜的
+2786.  sacrilegious      a.亵渎的，天谴的
+2787.  sacrosanct        a.非常神圣的
+2788.  sadistic          a.虐待狂的；残忍成性的
+2789.  saga              n.斯堪的纳维亚的传说；传奇
+2790.  Sagacious         a.有洞察力的
+2791.  sage              n.智者；圣人
+2792.  salacious         a.好色的；淫荡的
+2793.  salient           a.显著的；突出的；卓越的
+2794.  salubrious        a.对健康有益的，利于养生的
+2795.  salutary          a.有用的；有益的
+2796.  salvage           v.补救；抢救；打捞；营救
+2797.  salvo             n.解除武装；敬礼；保留条款
+2798.  sanctimonious     a.假正经的；假装神圣的
+2799.  sanction          v.批准，许可
+2800.  sanctuary         n.避难所
+2801.  sanguine          a.高兴的；有希望的；乐天的
+2802.  sap               v.减少；破坏
+2803.  sarcasm           n.挖苦；讽刺
+2804.  sardonic          a.讽刺的
+2805.  sartorial         a.裁缝的；缝纫机的；缝匠肌的
+2806.  sate              v.使心满意足；使过度满足；使腻
+2807.  satellite         n.卫星
+2808.  satiate           v.完全满足
+2809.  satire            n.讽刺的
+2810.  satirical         a.嘲弄的
+2811.  saturate          v.湿透
+2812.  saturnine         a.阴郁的
+2813.  saunter           v.漫步；闲逛
+2814.  savant            n.专家，学者
+2815.  savor             v.有滋有味儿的；享受这种滋味
+2816.  savory            a.有味道的；吸引人的
+2817.  scabbard          n.剑鞘
+2818.* scad              n.大批的，许多
+2819.  scaffold          n.脚手架；绞刑架
+2820.  scale             v.爬升；升高
+2821.  scamp             n.流氓，无赖
+2822.  scanty            a.缺乏的；稀疏的
+2823.  scapegoat         n.替罪羊
+2824.  scavenge          v.腐食；打扫
+2825.  scenario          n.情节；剧本大纲；（电影、歌剧）剧本
+2826.  schematic         a.示例的；示意性的
+2827.  schism            n.分离
+2828.  scintillate       v.迸出火花；发出闪烁
+2829.  scoff             v.嘲弄，奚落
+2830.  scourge           n.鞭笞；蹂躏
+2831.  scruple           v.踌躇；忧郁
+2832.  scrupulous        a.小心翼翼的；谨慎的
+2833.  scrutinize        v.明察
+2834.  scuffle           v.徘徊（思考问题）；混战
+2835.  scurry            v.轻快的；活泼的移动
+2836.  scurvy            a.下流的；卑鄙的，无理的；坏血病
+2837.  scuttle           v.迈着碎步轻快的走
+2838.  scuttle           v.沉没
+2839.  seamy             a.丑恶的；露出嘴脸的
+2840.  seasoned          a.老练的
+2841.  secession         n.撤退；脱离
+2842.  seclusion         n.隔离
+2843.  secrete           v.隐匿；藏匿；分泌
+2844.  sectarian         a.宗派主义的；地区主义的；狭窄的
+2845.  secular           a.世俗的；现世的；永久的
+2846.  sedate            a.安静的；稳重的；低沉的
+2847.  sedentary         a.久坐的；坐惯的
+2848.  sedition          n.抵抗当局；反抗；暴动
+2849.  sedulous          a.勤奋的；勤勤恳恳的
+2850.  seedy             a.破烂不堪的；褴褛的；不合适的
+2851.  seemly            a.适宜的，合适的
+2852.  seep              v.渗出；渗漏
+2853.  seethe            v.扰乱的；沸腾
+2854.  seismic           a.地震的
+2855.  seminary          n.神学院；学院；发祥地
+2856.  sensual           a.感官的；肉欲的；感官论的
+2857.  sententious       a.简洁的；警句式的，格言式的
+2858.  sentinel          n.哨兵
+2859.  sequester         v.隐退；隔离
+2860.  serendipity       n.有发现意外之财的运气
+2861.  serenity          n.平静
+2862.  serrated          a.锯齿状的
+2863.  servile           a.奴隶的；奴性的
+2864.  servitude         n.奴隶身份；苦工
+2865.  sever             v.切断
+2866.  severity          n.严肃；严格；激烈
+2867.  shackle           v.手铐；枷锁；脚镣
+2868.  sham              v.佯装；假的；赝品
+2869.  shambles          n.混乱的地方；肉铺
+2870.  shard             n.碎片（陶瓷的）
+2871.  sheaf             n.捆；扎（秸秆）
+2872.  shear             v.剪；修剪
+2873.  sheathe           v.插入鞘
+2874.  sheer             a.纯粹的；透明的；峻峭的；避开；偏航
+2875.  shimmer           v.微光
+2876.  shirk             v.逃避，推卸；避免
+2877.  shoddy            a.以次充好的；赝品
+2878.  shrewd            a.精明；敏锐
+2879.  shroud            v.裹尸；隐藏
+2880.  shun              v.避免
+2881.  shyster           n.讼棍；政界的奸诈之徒
+2882.  sibling           n.兄弟姐妹
+2883.  simian            a.像猴的
+2884.  simile            n.明喻；比较
+2885.  simper            v.痴笑；傻笑
+2886.  Simplistic        a.过分单纯化的
+2887.  simulate          v.模仿；冒充
+2888.  sinecure          n.闲职，报纸茶水的工作
+2889.  sinewy            a.结实；硬朗的
+2890.  singular          a.奇的；独一无二的
+2891.  sinister          a.邪恶的
+2892.  sinuous           a.蜿蜒的；弯曲复杂的；不老实的
+2893.  skeptic           n.怀疑论者
+2894.  skiff             n.小船
+2895.  skimp             v.节约的使用
+2896.  skinflint         n.守财奴；吝啬鬼
+2897.  skirmish          n.小规模战争；小打小闹
+2898.  skulk             v.偷懒；偷偷的移动
+2899.  slacken           v.放松；放慢
+2900.  slag              n.矿渣；炉渣；渣滓
+2901.  slake             v.结束；平息；消除；伺候舒服
+2902.  slander           n.诽谤
+2903.* slapdash          a.匆促的
+2904.  sleeper           n.睡眠；卧铺；枕木；冬眠的动物
+2905.  sleight           n.灵巧的
+2906.  slight            n.怠慢；斥责；侮辱
+2907.  slipshod          a.邋遢的；慢吞吞的；漫不经心的
+2908.  slither           v.滑动
+2909.  slothful          a.懒的
+2910.  slough            v.脱落；蜕皮
+2911.  slovenly          a.邋遢的；漫不经心的
+2912.  sluggard          n.懒人
+2913.  sluggish          a.行动迟缓的
+2914.  slur              v.模糊不清的说
+2915.  slur              n.诽谤；侮辱
+2916.  smelt             v.冶炼；精炼
+2917.  smirk             n.傻笑
+2918.  smolder           v.闷烧；随时准备爆发
+2919.  snicker           n.窃笑
+2920.  snivel            v.流鼻涕；啜泣；鼻子一把泪一把
+2921.  sodden            a.湿透的
+2922.  sojourn           n.逗留
+2923.  solace            n.安慰
+2924.  solder            v.焊接
+2925.  solecism          n.语法错误；谬误
+2926.  solemnity         n.严肃的；一本正经的
+2927.  solicit           v.恳求
+2928.  solicitous        a.担心的；关切的；期望的
+2929.  soliloquy         n.自言自语；独白
+2930.  solitude          n.独身
+2931.  soluble           a.可溶解的；可解决的
+2932.  solvent           a.有偿付能力的
+2933.  somber            a.阴森的；昏暗的；抑郁的
+2934.* somnambulist      n.梦游症患者
+2935.  somnolent         a.催眠的；半睡半醒的
+2936.  sonorous          a.醒目的
+2937.  sophisticated     a.世故的；复杂的
+2938.  sophistry         n.似真实假的
+2939.  sophomoric        a.一知半解的；不成熟的
+2940.  soporific         a.催眠的
+2941.  sordid            a.肮脏；卑鄙
+2942.  sovereign         a.君主的；至高无上的
+2943.  spangle           n.衣服上亮晶晶的小金属饰件
+2944.  sparse            a.稀少的；稀疏的
+2945.  spartan           a.刚毅的；朴素的；纪律严格的；斯巴达的
+2946.  spasmodic         a.断断续续的；间歇的
+2947.  spat              n.争论；口角；扇巴掌
+2948.  spate             n.爆发；大洪水；一大群的
+2949.  spatial           a.空间的
+2950.  spatula           n.压舌板；抹刀；批灰刀
+2951.  spawn             v.孵化；下蛋
+2952.  specious          a.似是而非的
+2953.  spectrum          n.光谱
+2954.  spendthrift       n.挥霍的人
+2955.* sphinx-like       a.谜的
+2956.  splice            v.绑定的；联合的
+2957.  spontaneity       n.自发的；自然的；无预谋的
+2958.  sporadic          a.零星的
+2959.  sportive          a.嬉戏的；玩闹的
+2960.  spry              a.充满生气的；活泼的；敏捷的
+2961.  spurious          a.伪造的，欺骗的
+2962.  spurn             v.放弃；拒绝
+2963.  squabble          n.争吵
+2964.  squalor           n.肮脏；悲惨；贫穷
+2965.  squander          v.浪费
+2966.  squat             a.矮壮的；又短又厚的；蹲着的
+2967.  staccato          a.断奏；断唱
+2968.  stagnant          a.静止的；单调的
+2969.  staid             a.沉静的；安静的
+2970.  stalemate         n.僵局
+2971.  stalwart          a.坚定的；强壮的
+2972.  stamina           n.毅力；意志力
+2973.  stanch            v.止血；血流变检测
+2974.  stanza            n.节；段落（诗的）；盘（棋的）
+2975.  static            a.静态的
+2976.  statute           n.法令；条例
+2977.  steadfast         a.坚定的；不渝的；忠诚的
+2978.  stealth           n.隐秘；隐藏；隐蔽行动
+2979.  steep             v.浸泡，弄湿；陡坡；悬崖
+2980.  stellar           a.星体的；恒星的
+2981.  stem              v.制止流出
+2982.  stem from         v.起因于
+2983.  stereotype        n.老套；一成不变；铅版
+2984.  stifle            v.使窒息；扑灭
+2985.  stigma            n.耻辱；耻辱的标记；柱头；气门
+2986.  stigmatize        v.打烙印；污蔑
+2987.  stilted           a.夸大的；充气的；虚胖的；踩高跷的
+2988.  stint             n.供应；分配；限量分配
+2989.  stint             v.紧缩，节省
+2990.  stipend           n.薪金；津贴
+2991.  stipulate         v.规定；明细化
+2992.  stodgy            a.乏味的；保守的
+2993.  stoic             n.坚忍克己之人
+2994.  stoke             v.填饱；司炉
+2995.  stolid            a.乏味的；单调的；冷漠的
+2996.  stratagem         n.计谋；战略
+2997.  stratify          v.分门别类；分类；分层
+2998.  stratum           n.地层；社会阶层
+2999.  strew             v.散开；随意散开；散播
+3000.  striated          a.有细条纹的
+3001.  stricture         n.责难；非难；限制
+3002.  strident          a.刺耳的；尖锐的；坚持不懈的
+3003.  stringent         a.严厉的；迫切的
+3004.  strut             n.大摇大摆；高视阔步
+3005.  strut             n.支柱
+3006.  studied           a.有计划的；故意的；有想法的
+3007.  stultify          v.使徒劳；使显得愚笨；拆台，办难堪
+3008.  stupefy           v.使麻木；使大吃一惊
+3009.  stupor            n.冷漠；漠不关心
+3010.  stymie            v.从中作梗；桩子；障碍物
+3011.  suavity           n.柔和；愉快；温和
+3012.  subdued           a.屈服的；柔和的；减弱的
+3013.  subjective        a.主观的；个人的
+3014.  subjugate         v.征服
+3015.  sublime           a.庄严的；崇高的；壮观的
+3016.  subliminal        a.低于极限的；下意识的
+3017.  submissive        a.屈服的；胆怯的
+3018.  subordinate       a.低级的；下级的；次要的
+3019.* suborn            v.教唆
+3020.  subpoena          n.传票
+3021.  subsequent        a.后来的；接下来的
+3022.  subservient       a.奴隶似的；奴性的
+3023.  subside           v.下沉；平息；减退
+3024.  subsidiary        a.次要的；辅助的
+3025.  subsidy           n.政府的补助
+3026.  subsistence       n.存在；生存
+3027.  substantial       a.坚实的；充实的
+3028.  substantiate      v.证实；验证
+3029.  substantive       a.真实的；有实质的；大量的
+3030.  subterfuge        n.借口；托辞
+3031.  subtlety          n.精明；稀薄；微妙
+3032.  subversive        a.颠覆性的；破坏性的
+3033.  succinct          a.简洁的；紧身的
+3034.  succor            v.救援；援助
+3035.  succulent         a.多汁的
+3036.  succumb           v.屈服；屈从；死
+3037.* suffragist        n.扩大参政权；扩大妇女参政权
+3038.  sully             v.弄脏；玷污
+3039.  sultry            a.闷热的，酷热的；放荡的；粗暴的
+3040.  summation         n.结算；累计；总结
+3041.  summit            n.巅峰；顶点
+3042.  sumptuous         a.奢侈的；华丽的
+3043.  sunder            v.分裂
+3044.  supercilious      a.自大的；傲慢的
+3045.  superficial       a.肤浅的；浅薄的
+3046.  superfluous       a.不必要的；多余的
+3047.  superimpose       v.添加
+3048.  supersede         v.取代；推迟
+3049.  supplant          v.篡位；取代
+3050.  supple            a.柔顺的；顺从的；柔韧的
+3051.  supplicate        v.恳求；祈祷
+3052.  supposition       n.假定；假想
+3053.  suppress          v.镇压；抑制；查禁
+3054.  surfeit           v.饮食过度；恶心
+3055.  surly             a.粗暴的；阴沉的；板着脸的；无礼的
+3056.  surmise           v.猜测
+3057.  surmount          v.克服
+3058.  surpass           v.超越
+3059.  surreptitious     a.暗中的；秘密的
+3060.  surrogate         n.代理；代替
+3061.  surveillance      n.监视；监督
+3062.  susceptible       a.易受影响的；易感动的；易患病的
+3063.  sustain           v.支撑；延续
+3064.  sustenance        n.食物；生计
+3065.  suture            n.缝合；缝合处
+3066.  swagger           v.大摇大摆；自大
+3067.  swarm             n.一大群；挤满，占满，蜂拥
+3068.  swarthy           a.暗的；有雾的
+3069.  swathe            v.包装物；绷带
+3070.  swelter           v.闷热；中暑
+3071.  swerve            v.转向；突然转向
+3072.  swill             v.痛饮
+3073.* swindler          n.骗子
+3074.  sybarite          n.纵情逸乐之徒
+3075.  sycophant         n.马屁精；阿谀奉承者
+3076.  symbiosis         n.共生现象
+3077.  symmetry          n.对称；匀称
+3078.  synoptic          a.概要的
+3079.  synthesis         n.合成
+3080.  table             v.搁
+3081.  tacit             a.默许的；会意的
+3082.  taciturn          a.沉默寡言的
+3083.  tactile           a.触觉的
+3084.  taint             v.污染，感染；污点
+3085.  talisman          n.护身符；避邪物
+3086.  talon             n.鸟爪
+3087.  tangential        a.外围的；切线的
+3088.  tangible          a.可触摸的；真实的
+3089.  tanner            n.皮革工人；6便士
+3090.  tantalize         v.逗弄；使其干着急
+3091.  tantamount        a.同等的
+3092.  tantrum           n.发脾气；暴怒
+3093.  tarantula         n.毒蜘蛛
+3094.  tarry             v.等候；逗留；混日子
+3095.  taut              a.紧张的；整洁的
+3096.  tautological      a.同义反复的
+3097.  tautology         n.同义反复
+3098.  tawdry            a.俗丽的；便宜且华而不实
+3099.  tedious           a.令人厌倦的
+3100.  temerity          n.鲁莽的
+3101.  temper            v.中和；回火；调剂；锻炼
+3102.  temperament       n.气质；性情
+3103.  temperate         a.节制的；自我控制的
+3104.  tempestuous       a.有暴风雨的；暴乱的
+3105.  tempo             n.节奏，乐曲的速度
+3106.  temporal          a.暂时的
+3107.  temporize         v.拖延时间；见风使舵
+3108.  tenacious         a.顽强的
+3109.  tenacity          n.坚韧
+3110.  tendentious       a.偏见的；有目标的；预计好的
+3111.  tender            v.提供；扩充
+3112.  tenet             n.原则；信条
+3113.  tensile           a.可伸展的；可拉长的
+3114.  tenuous           a.纤细的
+3115.  tenure            n.任期；（土地的）使用年限
+3116.  tepid             a.冷淡的；微热的
+3117.  termination       n.结束
+3118.  terminology       n.术语学
+3119.  terrestrial       a.地的；地球的
+3120.  terse             a.简洁；扼要的
+3121.  testy             a.易怒的
+3122.  tether            v.用绳子绑；范围
+3123.  thematic          a.主题的；主题相关的
+3124.  theocracy         n.神权政治
+3125.  theoretical       a.理论的
+3126.  therapeutic       a.治疗的；治疗学的
+3127.  thermal           a.热的；热学的
+3128.  thespian          a.戏剧的
+3129.  threadbare        a.褴褛的；破烂不堪的
+3130.  thrifty           a.节省的；抠包的
+3131.  thrive            v.繁荣；昌盛
+3132.* throes            n.剧痛
+3133.  throng            n.聚集
+3134.  thwart            v.阻碍；挫败
+3135.  tightwad          n.吝啬鬼
+3136.  tiller            n.舵柄；农夫
+3137.  timidity          n.胆怯
+3138.  timorous          a.害怕的
+3139.  tirade            n.长篇慷慨激昂的演说
+3140.  titanic           a.巨大的
+3141.  title             n.名字；等级；拥有权
+3142.  titter            n.神经质的笑
+3143.  titular           a.有名无实的
+3144.  toady             n.谄媚的人；马屁精
+3145.  tome              n.册；卷
+3146.  tonic             a.精神充沛的
+3147.  topography        n.拓扑学
+3148.  torpor            n.迟钝；麻木；不活泼
+3149.  torrent           n.急流；洪水
+3150.  torrid            a.有激情的；热带的
+3151.  torso             n.未完成的；残缺的
+3152.  tortuous          a.曲折的，蜿蜒的
+3153.  totter            v.摇摆；摇摇欲坠
+3154.  touchstone        n.试金石；准绳；标准；尺度
+3155.  touchy            a.暴躁的；难以处理的；易上火的
+3156.  tout              v.吹捧
+3157.  toxic             a.有毒的
+3158.  tract             n.地域；小册子
+3159.  tractable         a.驯良的；温顺的；易处理的
+3160.  traduce           v.诽谤；中伤
+3161.  trajectory        n.弹道；轨迹；抛物线
+3162.  tranquillity      n.平静；冷静
+3163.  transcendent      a.卓越的；非比寻常的
+3164.  transcribe        v.复制
+3165.  transgression     n.犯罪
+3166.  transient         a.暂时的
+3167.  transition        n.过渡；转换；跃迁
+3168.  transitory        a.短时间的
+3169.  translucent       a.半透明的
+3170.  transmute         v.改变
+3171.  transparent       a.透明的；容易检测的，明晰的
+3172.  transport         n.运输；狂喜
+3173.  trappings         n.服饰；装饰
+3174.  traumatic         a.外伤的
+3175.  travail           n.辛苦劳作
+3176.  traverse          v.穿过
+3177.  travesty          n.滑稽化；滑稽模仿
+3178.  treacly           a.甜蜜的
+3179.  treatise          n.论文
+3180.  trek              n.旅行
+3181.  tremor            n.振动的
+3182.  tremulous         a.震荡的
+3183.  trenchant         a.锋利的
+3184.  trepidation       n.惧怕
+3185.  trespass          v.过失；侵入
+3186.  tribute           n.贡品；殷勤；颂词；礼物
+3187.  trifling          a.不重要的
+3188.  trigger           v.引起；触发；扳机
+3189.  trinket           n.小玩意儿；密谋
+3190.  trite             a.陈腐的
+3191.  trivial           a.不重要的
+3192.  trough            n.槽；低谷
+3193.* truculence        n.野蛮；粗鲁
+3194.  truism            n.真实性
+3195.  truncate          v.截去尖端
+3196.  tryst             n.约会；幽会
+3197.  tumult            n.吵闹；混乱
+3198.  tundra            n.苔原；冻土
+3199.  turbid            a.浑浊的；搅动了沉淀物的
+3200.  turbulence        n.湍流；骚乱；动荡
+3201.  turgid            a.肿胀的
+3202.  turmoil           n.骚动；混乱
+3203.  turncoat          n.叛徒；叛逆者
+3204.  turpitude         n.奸恶；卑鄙
+3205.  tutelage          n.监护
+3206.  tycoon            n.大亨
+3207.  typhoon           n.台风
+3208.  tyranny           n.暴政；专制
+3209.  tyro              n.新手
+3210.  ubiquitous        a.无所不在的
+3211.  ulterior          a.将来的；隐蔽的
+3212.  ultimate          a.终极的
+3213.  unaccountable     a.无责任的；无法解释的
+3214.  unanimity         n.全体同意；全体一致
+3215.  unassailable      a.攻不破的
+3216.  unassuming        a.谦逊的
+3217.  unbridled         a.放肆的；肆虐的
+3218.  uncanny           a.离奇的
+3219.  unconscionable    a.不合理的；不道德的；过度的
+3220.  uncouth           a.笨拙的；粗俗的
+3221.  Unctuous          a.油的；油质的；松软肥沃的
+3222.  underlying        a.根本的；在下面的；潜在的
+3223.  undermine         v.破坏
+3224.  underscore        v.强调
+3225.* undulating        a.波浪的
+3226.  unearth           v.出土；发掘
+3227.  unequivocal       a.明白清楚的
+3228.  unerringly        a.正确无误的
+3229.  unfathomable      a.不可理解的；不能渗透的
+3230.* unfetter          v.解放
+3231.  unfrock           v.解除神职
+3232.  ungainly          a.糟糕的；笨拙的
+3233.  uniformity        n.一致性；同样
+3234.  unimpeachable     a.无懈可击的
+3235.  uninhibited       a.放荡不羁的；不受限制的
+3236.* unintimidating    a.无惧的
+3237.  unique            a.独一无二的
+3238.  universal         a.通用的
+3239.  unkempt           a.蓬乱的；粗野的；不洁的
+3240.  unmitigated       a.未缓和的；绝对的
+3241.  unobtrusive       a.不显眼的；朴素的
+3242.  unpalatable       a.厌恶的；不好吃的；味道糟糕的
+3243.  unprecedented     a.空前的
+3244.* unprepossessing   a.不吸引人的
+3245.  unravel           v.拆开；解决
+3246.  unrequited        a.不报答的，不回应的
+3247.  unruly            a.不服从的；倔强的
+3248.  unscathed         a.没有受伤的
+3249.  unseemly          a.不体面的
+3250.  unsightly         a.难看的
+3251.* unstinting        a.慷慨的；无保留的
+3252.  untenable         a.防不住的；防不胜防的；站不住的
+3253.  unwarranted       a.莫名其妙的；没来由的；冤枉的
+3254.  unwieldy          a.糟糕的；笨拙的
+3255.  unwitting         a.不知情的
+3256.  upbraid           v.责备
+3257.  upshot            n.结果
+3258.  urbane            a.文雅的；高雅的；彬彬有礼的
+3259.  usurp             v.篡取
+3260.  utopia            n.乌托邦
+3261.  vacuous           a.空虚的；空的
+3262.  vagabond          n.流浪者
+3263.  vagrant           n.无家可归的流浪者
+3264.  valedictory       a.告别的
+3265.  valid             a.正当的；有效的
+3266.  validate          v.批准；确认
+3267.  valor             n.英勇；勇猛
+3268.  vampire           n.吸血鬼
+3269.  vanguard          n.先驱；先锋
+3270.  vantage           n.优势
+3271.  vapid             a.平淡单调的；索然无味的；缺乏想象力的
+3272.  vaporize          v.蒸发
+3273.  variegated        a.杂色的
+3274.  veer              v.转向
+3275.  vehement          a.激烈的；热烈的
+3276.  velocity          n.速度
+3277.  venal             a.贪污的
+3278.  vendetta          n.深仇；世仇
+3279.  vendor            n.卖主
+3280.  veneer            n.薄板；外表
+3281.  venerable         a.庄严的；值得尊重的
+3282.  venerate          v.崇敬
+3283.  venial            a.可宽恕的
+3284.  venom             n.毒液；恶毒
+3285.  vent              n.出口，出路
+3286.  vent              v.表达；发泄
+3287.  ventriloquist     n.口技表演者
+3288.  venturesome       a.冒险的
+3289.  veracity          n.真实；准确性
+3290.* verbalize         v.描述
+3291.  verbatim          ad.逐字的
+3292.  verbiage          n.空话；大话
+3293.  verbose           a.冗长的
+3294.  verdant           a.翠绿的；生疏的；无经验的
+3295.  verge             n.边界
+3296.  verisimilitude    n.逼真
+3297.  verity            n.真实；真理；真实的陈述
+3298.  vernacular        n.母语；本国；本来的东西
+3299.  versatile         a.万能的；通用的；多面手的
+3300.  vertex            n.顶点
+3301.  vertigo           n.晕眩
+3302.  verve             n.神韵；活力；热情
+3303.  vestige           n.遗迹；痕迹；残留物
+3304.  vex               n.激怒；惹恼
+3305.  viable            a.能养活的；可行的
+3306.  vicarious         a.代理的；代理人的
+3307.  vicissitude       n.转运
+3308.  vie               v.竞争
+3309.  vigilance         n.警惕
+3310.  vignette          n.小插图
+3311.  vigor             n.活力
+3312.  vilify            v.诽谤；辱骂
+3313.  vindicate         v.辩护；维护
+3314.  vindictive        a.报复性的
+3315.  viper             n.蝰蛇
+3316.  virile            a.男子的；男子气概的
+3317.  virtual           a.有效的；实质的；虚的
+3318.  virtue            n.美德
+3319.  virtuoso          n.艺术品鉴赏家
+3320.  virulent          a.剧毒的
+3321.  virus             n.病毒
+3322.  visceral          a.内脏的
+3323.  viscid            a.粘合的
+3324.  viscous           a.粘的
+3325.  vise              n.老虎钳
+3326.  visionary         a.幻想的
+3327.  vital             a.重要的；生命的；生机的
+3328.  vitriolic         a.腐蚀的；硫酸的；讽刺的
+3329.  vituperative      a.责骂的
+3330.  vivacious         a.生动的
+3331.  vociferous        a.喊叫的；吵闹的
+3332.  vogue             n.时尚
+3333.  volatile          a.挥发的；飞行的；可变的；爆炸的
+3334.  volition          n.意志
+3335.  voluble           a.口齿伶俐的；爱说话的
+3336.  voluminous        a.庞大的
+3337.  voluptuous        a.令人满足的
+3338.  voracious         a.贪婪的；狼吞虎咽的
+3339.  vortex            n.漩涡；漩涡中心；（争斗、讨论的）中心
+3340.  vouchsafe         v.允许；赐予
+3341.* voyeur            n.偷窥者
+3342.  vulnerable        a.易受攻击的
+3343.  waffle            v.闲聊；胡扯
+3344.  waft              v.飘荡；信号
+3345.  waggish           a.滑稽的；爱开玩笑的
+3346.  waif              n.流浪儿童；流浪者
+3347.  waive             v.暂时放弃；屈从
+3348.  wake              n.尾迹；痕迹
+3349.  wallow            v.打滚；沉湎；堕落
+3350.  wan               a.苍白的
+3351.  wane              v.减少；变弱
+3352.  wanton            a.荒唐的；挥霍的；放荡的；不受限制的
+3353.  warble            v.颤声轻唱；鸟鸣
+3354.  warrant           v.授权；证明；批准
+3355.  warranty          n.担保；保证
+3356.  wary              a.机警的；小心的
+3357.  wastrel           n.废物；饭桶；放荡的人
+3358.  watershed         n.分水岭
+3359.  wax               v.增长
+3360.  waylay            v.埋伏；伏击；抢劫
+3361.  wean              v.断奶；丢弃
+3362.  weather           v.侵蚀；风化
+3363.  welter            n.翻滚；挣扎；骚乱；搅乱
+3364.  wheedle           v.哄骗；诱骗
+3365.  whelp             n.幼兽
+3366.  whet              v.锐化；刺激
+3367.  whiff             n.一吹；一喷
+3368.  whimsical         a.无常的；古怪的
+3369.  whinny            v.马嘶
+3370.  whittle           v.切；削；损害
+3371.  willful           a.顽固的；故意的
+3372.  wily              a.狡猾的
+3373.  wince             v.退缩
+3374.  windfall          n.横财
+3375.  winnow            v.扬谷；分出好坏
+3376.  winsome           a.迷人的
+3377.  wispy             a.纤细的；脆弱的
+3378.  wistful           a.渴望的
+3379.  withdrawn         a.内向的；孤僻的
+3380.  wither            v.凋谢；枯萎
+3381.  withhold          v.拒给；保留
+3382.  withstand         v.抵抗；经受住
+3383.  witless           a.无知的；轻率的
+3384.  witticism         n.俏皮话
+3385.  wizardry          n.巫术，魔术
+3386.  woe               n.悲哀的
+3387.  worldly           a.世俗的
+3388.  wrath             n.恼火；愤怒
+3389.  wrench            v.扭曲；扭伤；曲解；折磨；拉
+3390.  writhe            v.翻腾
+3391.  wry               a.歪曲的；扭曲的
+3392.  xenophobia        n.惧外的
+3393.  yen               n.渴望；瘾
+3394.  yield             v.屈服；放弃
+3395.  yield             n.产出；（投资的）回报
+3396.  yoke              v.结合；连接
+3397.  yore              n.往昔
+3398.  zany              a.滑稽的；疯狂的
+3399.  zeal              n.热心；热诚
+3400.  zealot            n.狂热者
+3401.  zenith            n.顶点
+3402.  zephyr            n.和风；徐风
+
